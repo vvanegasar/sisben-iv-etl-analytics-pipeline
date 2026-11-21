@@ -1,0 +1,1081 @@
+DPMP,AÑO,Genero,ÁREA GEOGRÁFICA,EDAD_NUM,Pob,FUENTE
+5001,2021,Hombres,Cabecera Municipal,0,1914,SINTETICO
+5001,2021,Hombres,Cabecera Municipal,10,73,SINTETICO
+5001,2021,Hombres,Cabecera Municipal,20,488,SINTETICO
+5001,2021,Hombres,Cabecera Municipal,30,1188,SINTETICO
+5001,2021,Hombres,Cabecera Municipal,40,890,SINTETICO
+5001,2021,Hombres,Cabecera Municipal,50,293,SINTETICO
+5001,2021,Hombres,Cabecera Municipal,60,1458,SINTETICO
+5001,2021,Hombres,Cabecera Municipal,70,1518,SINTETICO
+5001,2021,Hombres,Cabecera Municipal,80,2758,SINTETICO
+5001,2021,Hombres,Centro Poblado y Rural Disperso,0,1373,SINTETICO
+5001,2021,Hombres,Centro Poblado y Rural Disperso,10,2065,SINTETICO
+5001,2021,Hombres,Centro Poblado y Rural Disperso,20,2131,SINTETICO
+5001,2021,Hombres,Centro Poblado y Rural Disperso,30,1971,SINTETICO
+5001,2021,Hombres,Centro Poblado y Rural Disperso,40,928,SINTETICO
+5001,2021,Hombres,Centro Poblado y Rural Disperso,50,416,SINTETICO
+5001,2021,Hombres,Centro Poblado y Rural Disperso,60,1882,SINTETICO
+5001,2021,Hombres,Centro Poblado y Rural Disperso,70,1540,SINTETICO
+5001,2021,Hombres,Centro Poblado y Rural Disperso,80,1704,SINTETICO
+5001,2021,Mujeres,Cabecera Municipal,0,375,SINTETICO
+5001,2021,Mujeres,Cabecera Municipal,10,315,SINTETICO
+5001,2021,Mujeres,Cabecera Municipal,20,2215,SINTETICO
+5001,2021,Mujeres,Cabecera Municipal,30,76,SINTETICO
+5001,2021,Mujeres,Cabecera Municipal,40,1654,SINTETICO
+5001,2021,Mujeres,Cabecera Municipal,50,1177,SINTETICO
+5001,2021,Mujeres,Cabecera Municipal,60,2183,SINTETICO
+5001,2021,Mujeres,Cabecera Municipal,70,2696,SINTETICO
+5001,2021,Mujeres,Cabecera Municipal,80,2132,SINTETICO
+5001,2021,Mujeres,Centro Poblado y Rural Disperso,0,135,SINTETICO
+5001,2021,Mujeres,Centro Poblado y Rural Disperso,10,2559,SINTETICO
+5001,2021,Mujeres,Centro Poblado y Rural Disperso,20,2886,SINTETICO
+5001,2021,Mujeres,Centro Poblado y Rural Disperso,30,2631,SINTETICO
+5001,2021,Mujeres,Centro Poblado y Rural Disperso,40,2248,SINTETICO
+5001,2021,Mujeres,Centro Poblado y Rural Disperso,50,1138,SINTETICO
+5001,2021,Mujeres,Centro Poblado y Rural Disperso,60,2184,SINTETICO
+5001,2021,Mujeres,Centro Poblado y Rural Disperso,70,1631,SINTETICO
+5001,2021,Mujeres,Centro Poblado y Rural Disperso,80,591,SINTETICO
+5001,2022,Hombres,Cabecera Municipal,0,678,SINTETICO
+5001,2022,Hombres,Cabecera Municipal,10,1782,SINTETICO
+5001,2022,Hombres,Cabecera Municipal,20,2567,SINTETICO
+5001,2022,Hombres,Cabecera Municipal,30,2163,SINTETICO
+5001,2022,Hombres,Cabecera Municipal,40,2601,SINTETICO
+5001,2022,Hombres,Cabecera Municipal,50,2731,SINTETICO
+5001,2022,Hombres,Cabecera Municipal,60,1750,SINTETICO
+5001,2022,Hombres,Cabecera Municipal,70,171,SINTETICO
+5001,2022,Hombres,Cabecera Municipal,80,2598,SINTETICO
+5001,2022,Hombres,Centro Poblado y Rural Disperso,0,350,SINTETICO
+5001,2022,Hombres,Centro Poblado y Rural Disperso,10,283,SINTETICO
+5001,2022,Hombres,Centro Poblado y Rural Disperso,20,2910,SINTETICO
+5001,2022,Hombres,Centro Poblado y Rural Disperso,30,992,SINTETICO
+5001,2022,Hombres,Centro Poblado y Rural Disperso,40,2398,SINTETICO
+5001,2022,Hombres,Centro Poblado y Rural Disperso,50,2554,SINTETICO
+5001,2022,Hombres,Centro Poblado y Rural Disperso,60,1108,SINTETICO
+5001,2022,Hombres,Centro Poblado y Rural Disperso,70,2254,SINTETICO
+5001,2022,Hombres,Centro Poblado y Rural Disperso,80,448,SINTETICO
+5001,2022,Mujeres,Cabecera Municipal,0,2508,SINTETICO
+5001,2022,Mujeres,Cabecera Municipal,10,1958,SINTETICO
+5001,2022,Mujeres,Cabecera Municipal,20,2486,SINTETICO
+5001,2022,Mujeres,Cabecera Municipal,30,2770,SINTETICO
+5001,2022,Mujeres,Cabecera Municipal,40,750,SINTETICO
+5001,2022,Mujeres,Cabecera Municipal,50,666,SINTETICO
+5001,2022,Mujeres,Cabecera Municipal,60,2408,SINTETICO
+5001,2022,Mujeres,Cabecera Municipal,70,2194,SINTETICO
+5001,2022,Mujeres,Cabecera Municipal,80,364,SINTETICO
+5001,2022,Mujeres,Centro Poblado y Rural Disperso,0,593,SINTETICO
+5001,2022,Mujeres,Centro Poblado y Rural Disperso,10,672,SINTETICO
+5001,2022,Mujeres,Centro Poblado y Rural Disperso,20,2184,SINTETICO
+5001,2022,Mujeres,Centro Poblado y Rural Disperso,30,962,SINTETICO
+5001,2022,Mujeres,Centro Poblado y Rural Disperso,40,462,SINTETICO
+5001,2022,Mujeres,Centro Poblado y Rural Disperso,50,913,SINTETICO
+5001,2022,Mujeres,Centro Poblado y Rural Disperso,60,2974,SINTETICO
+5001,2022,Mujeres,Centro Poblado y Rural Disperso,70,2782,SINTETICO
+5001,2022,Mujeres,Centro Poblado y Rural Disperso,80,194,SINTETICO
+5001,2023,Hombres,Cabecera Municipal,0,662,SINTETICO
+5001,2023,Hombres,Cabecera Municipal,10,1104,SINTETICO
+5001,2023,Hombres,Cabecera Municipal,20,186,SINTETICO
+5001,2023,Hombres,Cabecera Municipal,30,1941,SINTETICO
+5001,2023,Hombres,Cabecera Municipal,40,1049,SINTETICO
+5001,2023,Hombres,Cabecera Municipal,50,1882,SINTETICO
+5001,2023,Hombres,Cabecera Municipal,60,401,SINTETICO
+5001,2023,Hombres,Cabecera Municipal,70,553,SINTETICO
+5001,2023,Hombres,Cabecera Municipal,80,1675,SINTETICO
+5001,2023,Hombres,Centro Poblado y Rural Disperso,0,343,SINTETICO
+5001,2023,Hombres,Centro Poblado y Rural Disperso,10,1135,SINTETICO
+5001,2023,Hombres,Centro Poblado y Rural Disperso,20,945,SINTETICO
+5001,2023,Hombres,Centro Poblado y Rural Disperso,30,2637,SINTETICO
+5001,2023,Hombres,Centro Poblado y Rural Disperso,40,699,SINTETICO
+5001,2023,Hombres,Centro Poblado y Rural Disperso,50,1928,SINTETICO
+5001,2023,Hombres,Centro Poblado y Rural Disperso,60,2224,SINTETICO
+5001,2023,Hombres,Centro Poblado y Rural Disperso,70,760,SINTETICO
+5001,2023,Hombres,Centro Poblado y Rural Disperso,80,1055,SINTETICO
+5001,2023,Mujeres,Cabecera Municipal,0,605,SINTETICO
+5001,2023,Mujeres,Cabecera Municipal,10,2066,SINTETICO
+5001,2023,Mujeres,Cabecera Municipal,20,380,SINTETICO
+5001,2023,Mujeres,Cabecera Municipal,30,2920,SINTETICO
+5001,2023,Mujeres,Cabecera Municipal,40,1531,SINTETICO
+5001,2023,Mujeres,Cabecera Municipal,50,2091,SINTETICO
+5001,2023,Mujeres,Cabecera Municipal,60,2775,SINTETICO
+5001,2023,Mujeres,Cabecera Municipal,70,1093,SINTETICO
+5001,2023,Mujeres,Cabecera Municipal,80,798,SINTETICO
+5001,2023,Mujeres,Centro Poblado y Rural Disperso,0,2097,SINTETICO
+5001,2023,Mujeres,Centro Poblado y Rural Disperso,10,109,SINTETICO
+5001,2023,Mujeres,Centro Poblado y Rural Disperso,20,2675,SINTETICO
+5001,2023,Mujeres,Centro Poblado y Rural Disperso,30,2329,SINTETICO
+5001,2023,Mujeres,Centro Poblado y Rural Disperso,40,1440,SINTETICO
+5001,2023,Mujeres,Centro Poblado y Rural Disperso,50,1272,SINTETICO
+5001,2023,Mujeres,Centro Poblado y Rural Disperso,60,1748,SINTETICO
+5001,2023,Mujeres,Centro Poblado y Rural Disperso,70,2611,SINTETICO
+5001,2023,Mujeres,Centro Poblado y Rural Disperso,80,891,SINTETICO
+5001,2024,Hombres,Cabecera Municipal,0,748,SINTETICO
+5001,2024,Hombres,Cabecera Municipal,10,2025,SINTETICO
+5001,2024,Hombres,Cabecera Municipal,20,2102,SINTETICO
+5001,2024,Hombres,Cabecera Municipal,30,654,SINTETICO
+5001,2024,Hombres,Cabecera Municipal,40,2824,SINTETICO
+5001,2024,Hombres,Cabecera Municipal,50,2192,SINTETICO
+5001,2024,Hombres,Cabecera Municipal,60,1421,SINTETICO
+5001,2024,Hombres,Cabecera Municipal,70,2842,SINTETICO
+5001,2024,Hombres,Cabecera Municipal,80,1115,SINTETICO
+5001,2024,Hombres,Centro Poblado y Rural Disperso,0,2218,SINTETICO
+5001,2024,Hombres,Centro Poblado y Rural Disperso,10,2170,SINTETICO
+5001,2024,Hombres,Centro Poblado y Rural Disperso,20,533,SINTETICO
+5001,2024,Hombres,Centro Poblado y Rural Disperso,30,2247,SINTETICO
+5001,2024,Hombres,Centro Poblado y Rural Disperso,40,510,SINTETICO
+5001,2024,Hombres,Centro Poblado y Rural Disperso,50,807,SINTETICO
+5001,2024,Hombres,Centro Poblado y Rural Disperso,60,2668,SINTETICO
+5001,2024,Hombres,Centro Poblado y Rural Disperso,70,2007,SINTETICO
+5001,2024,Hombres,Centro Poblado y Rural Disperso,80,1950,SINTETICO
+5001,2024,Mujeres,Cabecera Municipal,0,511,SINTETICO
+5001,2024,Mujeres,Cabecera Municipal,10,356,SINTETICO
+5001,2024,Mujeres,Cabecera Municipal,20,891,SINTETICO
+5001,2024,Mujeres,Cabecera Municipal,30,2572,SINTETICO
+5001,2024,Mujeres,Cabecera Municipal,40,453,SINTETICO
+5001,2024,Mujeres,Cabecera Municipal,50,1726,SINTETICO
+5001,2024,Mujeres,Cabecera Municipal,60,2951,SINTETICO
+5001,2024,Mujeres,Cabecera Municipal,70,1268,SINTETICO
+5001,2024,Mujeres,Cabecera Municipal,80,2436,SINTETICO
+5001,2024,Mujeres,Centro Poblado y Rural Disperso,0,2464,SINTETICO
+5001,2024,Mujeres,Centro Poblado y Rural Disperso,10,1364,SINTETICO
+5001,2024,Mujeres,Centro Poblado y Rural Disperso,20,1571,SINTETICO
+5001,2024,Mujeres,Centro Poblado y Rural Disperso,30,2355,SINTETICO
+5001,2024,Mujeres,Centro Poblado y Rural Disperso,40,2259,SINTETICO
+5001,2024,Mujeres,Centro Poblado y Rural Disperso,50,914,SINTETICO
+5001,2024,Mujeres,Centro Poblado y Rural Disperso,60,984,SINTETICO
+5001,2024,Mujeres,Centro Poblado y Rural Disperso,70,738,SINTETICO
+5001,2024,Mujeres,Centro Poblado y Rural Disperso,80,122,SINTETICO
+5001,2025,Hombres,Cabecera Municipal,0,822,SINTETICO
+5001,2025,Hombres,Cabecera Municipal,10,703,SINTETICO
+5001,2025,Hombres,Cabecera Municipal,20,2319,SINTETICO
+5001,2025,Hombres,Cabecera Municipal,30,2040,SINTETICO
+5001,2025,Hombres,Cabecera Municipal,40,1583,SINTETICO
+5001,2025,Hombres,Cabecera Municipal,50,1509,SINTETICO
+5001,2025,Hombres,Cabecera Municipal,60,943,SINTETICO
+5001,2025,Hombres,Cabecera Municipal,70,2080,SINTETICO
+5001,2025,Hombres,Cabecera Municipal,80,2932,SINTETICO
+5001,2025,Hombres,Centro Poblado y Rural Disperso,0,1788,SINTETICO
+5001,2025,Hombres,Centro Poblado y Rural Disperso,10,1575,SINTETICO
+5001,2025,Hombres,Centro Poblado y Rural Disperso,20,2038,SINTETICO
+5001,2025,Hombres,Centro Poblado y Rural Disperso,30,1930,SINTETICO
+5001,2025,Hombres,Centro Poblado y Rural Disperso,40,1142,SINTETICO
+5001,2025,Hombres,Centro Poblado y Rural Disperso,50,1612,SINTETICO
+5001,2025,Hombres,Centro Poblado y Rural Disperso,60,814,SINTETICO
+5001,2025,Hombres,Centro Poblado y Rural Disperso,70,665,SINTETICO
+5001,2025,Hombres,Centro Poblado y Rural Disperso,80,2058,SINTETICO
+5001,2025,Mujeres,Cabecera Municipal,0,221,SINTETICO
+5001,2025,Mujeres,Cabecera Municipal,10,1962,SINTETICO
+5001,2025,Mujeres,Cabecera Municipal,20,1551,SINTETICO
+5001,2025,Mujeres,Cabecera Municipal,30,86,SINTETICO
+5001,2025,Mujeres,Cabecera Municipal,40,2473,SINTETICO
+5001,2025,Mujeres,Cabecera Municipal,50,1808,SINTETICO
+5001,2025,Mujeres,Cabecera Municipal,60,1051,SINTETICO
+5001,2025,Mujeres,Cabecera Municipal,70,900,SINTETICO
+5001,2025,Mujeres,Cabecera Municipal,80,2817,SINTETICO
+5001,2025,Mujeres,Centro Poblado y Rural Disperso,0,2879,SINTETICO
+5001,2025,Mujeres,Centro Poblado y Rural Disperso,10,1282,SINTETICO
+5001,2025,Mujeres,Centro Poblado y Rural Disperso,20,488,SINTETICO
+5001,2025,Mujeres,Centro Poblado y Rural Disperso,30,589,SINTETICO
+5001,2025,Mujeres,Centro Poblado y Rural Disperso,40,1583,SINTETICO
+5001,2025,Mujeres,Centro Poblado y Rural Disperso,50,2918,SINTETICO
+5001,2025,Mujeres,Centro Poblado y Rural Disperso,60,1109,SINTETICO
+5001,2025,Mujeres,Centro Poblado y Rural Disperso,70,1986,SINTETICO
+5001,2025,Mujeres,Centro Poblado y Rural Disperso,80,1667,SINTETICO
+5001,2026,Hombres,Cabecera Municipal,0,2681,SINTETICO
+5001,2026,Hombres,Cabecera Municipal,10,2261,SINTETICO
+5001,2026,Hombres,Cabecera Municipal,20,87,SINTETICO
+5001,2026,Hombres,Cabecera Municipal,30,2401,SINTETICO
+5001,2026,Hombres,Cabecera Municipal,40,2261,SINTETICO
+5001,2026,Hombres,Cabecera Municipal,50,803,SINTETICO
+5001,2026,Hombres,Cabecera Municipal,60,436,SINTETICO
+5001,2026,Hombres,Cabecera Municipal,70,1766,SINTETICO
+5001,2026,Hombres,Cabecera Municipal,80,2217,SINTETICO
+5001,2026,Hombres,Centro Poblado y Rural Disperso,0,2158,SINTETICO
+5001,2026,Hombres,Centro Poblado y Rural Disperso,10,564,SINTETICO
+5001,2026,Hombres,Centro Poblado y Rural Disperso,20,2024,SINTETICO
+5001,2026,Hombres,Centro Poblado y Rural Disperso,30,804,SINTETICO
+5001,2026,Hombres,Centro Poblado y Rural Disperso,40,2867,SINTETICO
+5001,2026,Hombres,Centro Poblado y Rural Disperso,50,1121,SINTETICO
+5001,2026,Hombres,Centro Poblado y Rural Disperso,60,1777,SINTETICO
+5001,2026,Hombres,Centro Poblado y Rural Disperso,70,2880,SINTETICO
+5001,2026,Hombres,Centro Poblado y Rural Disperso,80,2053,SINTETICO
+5001,2026,Mujeres,Cabecera Municipal,0,238,SINTETICO
+5001,2026,Mujeres,Cabecera Municipal,10,98,SINTETICO
+5001,2026,Mujeres,Cabecera Municipal,20,1135,SINTETICO
+5001,2026,Mujeres,Cabecera Municipal,30,487,SINTETICO
+5001,2026,Mujeres,Cabecera Municipal,40,823,SINTETICO
+5001,2026,Mujeres,Cabecera Municipal,50,684,SINTETICO
+5001,2026,Mujeres,Cabecera Municipal,60,2913,SINTETICO
+5001,2026,Mujeres,Cabecera Municipal,70,1153,SINTETICO
+5001,2026,Mujeres,Cabecera Municipal,80,2131,SINTETICO
+5001,2026,Mujeres,Centro Poblado y Rural Disperso,0,692,SINTETICO
+5001,2026,Mujeres,Centro Poblado y Rural Disperso,10,2020,SINTETICO
+5001,2026,Mujeres,Centro Poblado y Rural Disperso,20,1778,SINTETICO
+5001,2026,Mujeres,Centro Poblado y Rural Disperso,30,2145,SINTETICO
+5001,2026,Mujeres,Centro Poblado y Rural Disperso,40,505,SINTETICO
+5001,2026,Mujeres,Centro Poblado y Rural Disperso,50,332,SINTETICO
+5001,2026,Mujeres,Centro Poblado y Rural Disperso,60,1636,SINTETICO
+5001,2026,Mujeres,Centro Poblado y Rural Disperso,70,214,SINTETICO
+5001,2026,Mujeres,Centro Poblado y Rural Disperso,80,714,SINTETICO
+5045,2021,Hombres,Cabecera Municipal,0,1314,SINTETICO
+5045,2021,Hombres,Cabecera Municipal,10,2561,SINTETICO
+5045,2021,Hombres,Cabecera Municipal,20,626,SINTETICO
+5045,2021,Hombres,Cabecera Municipal,30,116,SINTETICO
+5045,2021,Hombres,Cabecera Municipal,40,2665,SINTETICO
+5045,2021,Hombres,Cabecera Municipal,50,144,SINTETICO
+5045,2021,Hombres,Cabecera Municipal,60,1610,SINTETICO
+5045,2021,Hombres,Cabecera Municipal,70,1577,SINTETICO
+5045,2021,Hombres,Cabecera Municipal,80,1493,SINTETICO
+5045,2021,Hombres,Centro Poblado y Rural Disperso,0,382,SINTETICO
+5045,2021,Hombres,Centro Poblado y Rural Disperso,10,274,SINTETICO
+5045,2021,Hombres,Centro Poblado y Rural Disperso,20,1573,SINTETICO
+5045,2021,Hombres,Centro Poblado y Rural Disperso,30,661,SINTETICO
+5045,2021,Hombres,Centro Poblado y Rural Disperso,40,312,SINTETICO
+5045,2021,Hombres,Centro Poblado y Rural Disperso,50,1374,SINTETICO
+5045,2021,Hombres,Centro Poblado y Rural Disperso,60,2425,SINTETICO
+5045,2021,Hombres,Centro Poblado y Rural Disperso,70,167,SINTETICO
+5045,2021,Hombres,Centro Poblado y Rural Disperso,80,2382,SINTETICO
+5045,2021,Mujeres,Cabecera Municipal,0,2032,SINTETICO
+5045,2021,Mujeres,Cabecera Municipal,10,1227,SINTETICO
+5045,2021,Mujeres,Cabecera Municipal,20,607,SINTETICO
+5045,2021,Mujeres,Cabecera Municipal,30,655,SINTETICO
+5045,2021,Mujeres,Cabecera Municipal,40,1831,SINTETICO
+5045,2021,Mujeres,Cabecera Municipal,50,977,SINTETICO
+5045,2021,Mujeres,Cabecera Municipal,60,1544,SINTETICO
+5045,2021,Mujeres,Cabecera Municipal,70,2484,SINTETICO
+5045,2021,Mujeres,Cabecera Municipal,80,1174,SINTETICO
+5045,2021,Mujeres,Centro Poblado y Rural Disperso,0,619,SINTETICO
+5045,2021,Mujeres,Centro Poblado y Rural Disperso,10,2785,SINTETICO
+5045,2021,Mujeres,Centro Poblado y Rural Disperso,20,2851,SINTETICO
+5045,2021,Mujeres,Centro Poblado y Rural Disperso,30,1803,SINTETICO
+5045,2021,Mujeres,Centro Poblado y Rural Disperso,40,1821,SINTETICO
+5045,2021,Mujeres,Centro Poblado y Rural Disperso,50,2237,SINTETICO
+5045,2021,Mujeres,Centro Poblado y Rural Disperso,60,2823,SINTETICO
+5045,2021,Mujeres,Centro Poblado y Rural Disperso,70,1411,SINTETICO
+5045,2021,Mujeres,Centro Poblado y Rural Disperso,80,425,SINTETICO
+5045,2022,Hombres,Cabecera Municipal,0,1761,SINTETICO
+5045,2022,Hombres,Cabecera Municipal,10,257,SINTETICO
+5045,2022,Hombres,Cabecera Municipal,20,2462,SINTETICO
+5045,2022,Hombres,Cabecera Municipal,30,255,SINTETICO
+5045,2022,Hombres,Cabecera Municipal,40,2347,SINTETICO
+5045,2022,Hombres,Cabecera Municipal,50,516,SINTETICO
+5045,2022,Hombres,Cabecera Municipal,60,1612,SINTETICO
+5045,2022,Hombres,Cabecera Municipal,70,432,SINTETICO
+5045,2022,Hombres,Cabecera Municipal,80,812,SINTETICO
+5045,2022,Hombres,Centro Poblado y Rural Disperso,0,2884,SINTETICO
+5045,2022,Hombres,Centro Poblado y Rural Disperso,10,152,SINTETICO
+5045,2022,Hombres,Centro Poblado y Rural Disperso,20,2718,SINTETICO
+5045,2022,Hombres,Centro Poblado y Rural Disperso,30,2758,SINTETICO
+5045,2022,Hombres,Centro Poblado y Rural Disperso,40,1232,SINTETICO
+5045,2022,Hombres,Centro Poblado y Rural Disperso,50,2748,SINTETICO
+5045,2022,Hombres,Centro Poblado y Rural Disperso,60,1860,SINTETICO
+5045,2022,Hombres,Centro Poblado y Rural Disperso,70,2582,SINTETICO
+5045,2022,Hombres,Centro Poblado y Rural Disperso,80,443,SINTETICO
+5045,2022,Mujeres,Cabecera Municipal,0,1979,SINTETICO
+5045,2022,Mujeres,Cabecera Municipal,10,2821,SINTETICO
+5045,2022,Mujeres,Cabecera Municipal,20,1363,SINTETICO
+5045,2022,Mujeres,Cabecera Municipal,30,133,SINTETICO
+5045,2022,Mujeres,Cabecera Municipal,40,1185,SINTETICO
+5045,2022,Mujeres,Cabecera Municipal,50,2193,SINTETICO
+5045,2022,Mujeres,Cabecera Municipal,60,1997,SINTETICO
+5045,2022,Mujeres,Cabecera Municipal,70,1444,SINTETICO
+5045,2022,Mujeres,Cabecera Municipal,80,312,SINTETICO
+5045,2022,Mujeres,Centro Poblado y Rural Disperso,0,233,SINTETICO
+5045,2022,Mujeres,Centro Poblado y Rural Disperso,10,545,SINTETICO
+5045,2022,Mujeres,Centro Poblado y Rural Disperso,20,2941,SINTETICO
+5045,2022,Mujeres,Centro Poblado y Rural Disperso,30,2240,SINTETICO
+5045,2022,Mujeres,Centro Poblado y Rural Disperso,40,973,SINTETICO
+5045,2022,Mujeres,Centro Poblado y Rural Disperso,50,486,SINTETICO
+5045,2022,Mujeres,Centro Poblado y Rural Disperso,60,423,SINTETICO
+5045,2022,Mujeres,Centro Poblado y Rural Disperso,70,662,SINTETICO
+5045,2022,Mujeres,Centro Poblado y Rural Disperso,80,1840,SINTETICO
+5045,2023,Hombres,Cabecera Municipal,0,174,SINTETICO
+5045,2023,Hombres,Cabecera Municipal,10,137,SINTETICO
+5045,2023,Hombres,Cabecera Municipal,20,1319,SINTETICO
+5045,2023,Hombres,Cabecera Municipal,30,1041,SINTETICO
+5045,2023,Hombres,Cabecera Municipal,40,1470,SINTETICO
+5045,2023,Hombres,Cabecera Municipal,50,2884,SINTETICO
+5045,2023,Hombres,Cabecera Municipal,60,2056,SINTETICO
+5045,2023,Hombres,Cabecera Municipal,70,2636,SINTETICO
+5045,2023,Hombres,Cabecera Municipal,80,1999,SINTETICO
+5045,2023,Hombres,Centro Poblado y Rural Disperso,0,758,SINTETICO
+5045,2023,Hombres,Centro Poblado y Rural Disperso,10,2597,SINTETICO
+5045,2023,Hombres,Centro Poblado y Rural Disperso,20,1695,SINTETICO
+5045,2023,Hombres,Centro Poblado y Rural Disperso,30,2476,SINTETICO
+5045,2023,Hombres,Centro Poblado y Rural Disperso,40,2381,SINTETICO
+5045,2023,Hombres,Centro Poblado y Rural Disperso,50,791,SINTETICO
+5045,2023,Hombres,Centro Poblado y Rural Disperso,60,2966,SINTETICO
+5045,2023,Hombres,Centro Poblado y Rural Disperso,70,1830,SINTETICO
+5045,2023,Hombres,Centro Poblado y Rural Disperso,80,653,SINTETICO
+5045,2023,Mujeres,Cabecera Municipal,0,2254,SINTETICO
+5045,2023,Mujeres,Cabecera Municipal,10,1573,SINTETICO
+5045,2023,Mujeres,Cabecera Municipal,20,1851,SINTETICO
+5045,2023,Mujeres,Cabecera Municipal,30,1263,SINTETICO
+5045,2023,Mujeres,Cabecera Municipal,40,2413,SINTETICO
+5045,2023,Mujeres,Cabecera Municipal,50,1850,SINTETICO
+5045,2023,Mujeres,Cabecera Municipal,60,1514,SINTETICO
+5045,2023,Mujeres,Cabecera Municipal,70,346,SINTETICO
+5045,2023,Mujeres,Cabecera Municipal,80,144,SINTETICO
+5045,2023,Mujeres,Centro Poblado y Rural Disperso,0,757,SINTETICO
+5045,2023,Mujeres,Centro Poblado y Rural Disperso,10,2413,SINTETICO
+5045,2023,Mujeres,Centro Poblado y Rural Disperso,20,309,SINTETICO
+5045,2023,Mujeres,Centro Poblado y Rural Disperso,30,1372,SINTETICO
+5045,2023,Mujeres,Centro Poblado y Rural Disperso,40,2016,SINTETICO
+5045,2023,Mujeres,Centro Poblado y Rural Disperso,50,490,SINTETICO
+5045,2023,Mujeres,Centro Poblado y Rural Disperso,60,1406,SINTETICO
+5045,2023,Mujeres,Centro Poblado y Rural Disperso,70,1202,SINTETICO
+5045,2023,Mujeres,Centro Poblado y Rural Disperso,80,2376,SINTETICO
+5045,2024,Hombres,Cabecera Municipal,0,2206,SINTETICO
+5045,2024,Hombres,Cabecera Municipal,10,2304,SINTETICO
+5045,2024,Hombres,Cabecera Municipal,20,2429,SINTETICO
+5045,2024,Hombres,Cabecera Municipal,30,2398,SINTETICO
+5045,2024,Hombres,Cabecera Municipal,40,740,SINTETICO
+5045,2024,Hombres,Cabecera Municipal,50,1052,SINTETICO
+5045,2024,Hombres,Cabecera Municipal,60,1312,SINTETICO
+5045,2024,Hombres,Cabecera Municipal,70,157,SINTETICO
+5045,2024,Hombres,Cabecera Municipal,80,2553,SINTETICO
+5045,2024,Hombres,Centro Poblado y Rural Disperso,0,2724,SINTETICO
+5045,2024,Hombres,Centro Poblado y Rural Disperso,10,1945,SINTETICO
+5045,2024,Hombres,Centro Poblado y Rural Disperso,20,1281,SINTETICO
+5045,2024,Hombres,Centro Poblado y Rural Disperso,30,1444,SINTETICO
+5045,2024,Hombres,Centro Poblado y Rural Disperso,40,2788,SINTETICO
+5045,2024,Hombres,Centro Poblado y Rural Disperso,50,65,SINTETICO
+5045,2024,Hombres,Centro Poblado y Rural Disperso,60,1507,SINTETICO
+5045,2024,Hombres,Centro Poblado y Rural Disperso,70,2906,SINTETICO
+5045,2024,Hombres,Centro Poblado y Rural Disperso,80,1223,SINTETICO
+5045,2024,Mujeres,Cabecera Municipal,0,962,SINTETICO
+5045,2024,Mujeres,Cabecera Municipal,10,2518,SINTETICO
+5045,2024,Mujeres,Cabecera Municipal,20,1297,SINTETICO
+5045,2024,Mujeres,Cabecera Municipal,30,2308,SINTETICO
+5045,2024,Mujeres,Cabecera Municipal,40,1981,SINTETICO
+5045,2024,Mujeres,Cabecera Municipal,50,778,SINTETICO
+5045,2024,Mujeres,Cabecera Municipal,60,194,SINTETICO
+5045,2024,Mujeres,Cabecera Municipal,70,389,SINTETICO
+5045,2024,Mujeres,Cabecera Municipal,80,2042,SINTETICO
+5045,2024,Mujeres,Centro Poblado y Rural Disperso,0,1385,SINTETICO
+5045,2024,Mujeres,Centro Poblado y Rural Disperso,10,106,SINTETICO
+5045,2024,Mujeres,Centro Poblado y Rural Disperso,20,1349,SINTETICO
+5045,2024,Mujeres,Centro Poblado y Rural Disperso,30,1909,SINTETICO
+5045,2024,Mujeres,Centro Poblado y Rural Disperso,40,599,SINTETICO
+5045,2024,Mujeres,Centro Poblado y Rural Disperso,50,428,SINTETICO
+5045,2024,Mujeres,Centro Poblado y Rural Disperso,60,1377,SINTETICO
+5045,2024,Mujeres,Centro Poblado y Rural Disperso,70,2779,SINTETICO
+5045,2024,Mujeres,Centro Poblado y Rural Disperso,80,2465,SINTETICO
+5045,2025,Hombres,Cabecera Municipal,0,2830,SINTETICO
+5045,2025,Hombres,Cabecera Municipal,10,2906,SINTETICO
+5045,2025,Hombres,Cabecera Municipal,20,467,SINTETICO
+5045,2025,Hombres,Cabecera Municipal,30,1908,SINTETICO
+5045,2025,Hombres,Cabecera Municipal,40,296,SINTETICO
+5045,2025,Hombres,Cabecera Municipal,50,1438,SINTETICO
+5045,2025,Hombres,Cabecera Municipal,60,2267,SINTETICO
+5045,2025,Hombres,Cabecera Municipal,70,1438,SINTETICO
+5045,2025,Hombres,Cabecera Municipal,80,1539,SINTETICO
+5045,2025,Hombres,Centro Poblado y Rural Disperso,0,437,SINTETICO
+5045,2025,Hombres,Centro Poblado y Rural Disperso,10,218,SINTETICO
+5045,2025,Hombres,Centro Poblado y Rural Disperso,20,2581,SINTETICO
+5045,2025,Hombres,Centro Poblado y Rural Disperso,30,162,SINTETICO
+5045,2025,Hombres,Centro Poblado y Rural Disperso,40,775,SINTETICO
+5045,2025,Hombres,Centro Poblado y Rural Disperso,50,1837,SINTETICO
+5045,2025,Hombres,Centro Poblado y Rural Disperso,60,2108,SINTETICO
+5045,2025,Hombres,Centro Poblado y Rural Disperso,70,2493,SINTETICO
+5045,2025,Hombres,Centro Poblado y Rural Disperso,80,907,SINTETICO
+5045,2025,Mujeres,Cabecera Municipal,0,1073,SINTETICO
+5045,2025,Mujeres,Cabecera Municipal,10,2775,SINTETICO
+5045,2025,Mujeres,Cabecera Municipal,20,1546,SINTETICO
+5045,2025,Mujeres,Cabecera Municipal,30,2705,SINTETICO
+5045,2025,Mujeres,Cabecera Municipal,40,1035,SINTETICO
+5045,2025,Mujeres,Cabecera Municipal,50,2611,SINTETICO
+5045,2025,Mujeres,Cabecera Municipal,60,2919,SINTETICO
+5045,2025,Mujeres,Cabecera Municipal,70,1165,SINTETICO
+5045,2025,Mujeres,Cabecera Municipal,80,1862,SINTETICO
+5045,2025,Mujeres,Centro Poblado y Rural Disperso,0,477,SINTETICO
+5045,2025,Mujeres,Centro Poblado y Rural Disperso,10,2662,SINTETICO
+5045,2025,Mujeres,Centro Poblado y Rural Disperso,20,2024,SINTETICO
+5045,2025,Mujeres,Centro Poblado y Rural Disperso,30,1593,SINTETICO
+5045,2025,Mujeres,Centro Poblado y Rural Disperso,40,2419,SINTETICO
+5045,2025,Mujeres,Centro Poblado y Rural Disperso,50,2480,SINTETICO
+5045,2025,Mujeres,Centro Poblado y Rural Disperso,60,527,SINTETICO
+5045,2025,Mujeres,Centro Poblado y Rural Disperso,70,1968,SINTETICO
+5045,2025,Mujeres,Centro Poblado y Rural Disperso,80,1229,SINTETICO
+5045,2026,Hombres,Cabecera Municipal,0,1811,SINTETICO
+5045,2026,Hombres,Cabecera Municipal,10,1986,SINTETICO
+5045,2026,Hombres,Cabecera Municipal,20,997,SINTETICO
+5045,2026,Hombres,Cabecera Municipal,30,428,SINTETICO
+5045,2026,Hombres,Cabecera Municipal,40,1412,SINTETICO
+5045,2026,Hombres,Cabecera Municipal,50,2356,SINTETICO
+5045,2026,Hombres,Cabecera Municipal,60,1736,SINTETICO
+5045,2026,Hombres,Cabecera Municipal,70,215,SINTETICO
+5045,2026,Hombres,Cabecera Municipal,80,1535,SINTETICO
+5045,2026,Hombres,Centro Poblado y Rural Disperso,0,1851,SINTETICO
+5045,2026,Hombres,Centro Poblado y Rural Disperso,10,2870,SINTETICO
+5045,2026,Hombres,Centro Poblado y Rural Disperso,20,468,SINTETICO
+5045,2026,Hombres,Centro Poblado y Rural Disperso,30,2963,SINTETICO
+5045,2026,Hombres,Centro Poblado y Rural Disperso,40,2621,SINTETICO
+5045,2026,Hombres,Centro Poblado y Rural Disperso,50,290,SINTETICO
+5045,2026,Hombres,Centro Poblado y Rural Disperso,60,850,SINTETICO
+5045,2026,Hombres,Centro Poblado y Rural Disperso,70,1113,SINTETICO
+5045,2026,Hombres,Centro Poblado y Rural Disperso,80,938,SINTETICO
+5045,2026,Mujeres,Cabecera Municipal,0,198,SINTETICO
+5045,2026,Mujeres,Cabecera Municipal,10,1530,SINTETICO
+5045,2026,Mujeres,Cabecera Municipal,20,1915,SINTETICO
+5045,2026,Mujeres,Cabecera Municipal,30,2135,SINTETICO
+5045,2026,Mujeres,Cabecera Municipal,40,770,SINTETICO
+5045,2026,Mujeres,Cabecera Municipal,50,1269,SINTETICO
+5045,2026,Mujeres,Cabecera Municipal,60,2447,SINTETICO
+5045,2026,Mujeres,Cabecera Municipal,70,2999,SINTETICO
+5045,2026,Mujeres,Cabecera Municipal,80,135,SINTETICO
+5045,2026,Mujeres,Centro Poblado y Rural Disperso,0,284,SINTETICO
+5045,2026,Mujeres,Centro Poblado y Rural Disperso,10,712,SINTETICO
+5045,2026,Mujeres,Centro Poblado y Rural Disperso,20,2081,SINTETICO
+5045,2026,Mujeres,Centro Poblado y Rural Disperso,30,2085,SINTETICO
+5045,2026,Mujeres,Centro Poblado y Rural Disperso,40,2066,SINTETICO
+5045,2026,Mujeres,Centro Poblado y Rural Disperso,50,2635,SINTETICO
+5045,2026,Mujeres,Centro Poblado y Rural Disperso,60,269,SINTETICO
+5045,2026,Mujeres,Centro Poblado y Rural Disperso,70,1747,SINTETICO
+5045,2026,Mujeres,Centro Poblado y Rural Disperso,80,2377,SINTETICO
+5154,2021,Hombres,Cabecera Municipal,0,2382,SINTETICO
+5154,2021,Hombres,Cabecera Municipal,10,2209,SINTETICO
+5154,2021,Hombres,Cabecera Municipal,20,973,SINTETICO
+5154,2021,Hombres,Cabecera Municipal,30,1075,SINTETICO
+5154,2021,Hombres,Cabecera Municipal,40,744,SINTETICO
+5154,2021,Hombres,Cabecera Municipal,50,2508,SINTETICO
+5154,2021,Hombres,Cabecera Municipal,60,2724,SINTETICO
+5154,2021,Hombres,Cabecera Municipal,70,2337,SINTETICO
+5154,2021,Hombres,Cabecera Municipal,80,896,SINTETICO
+5154,2021,Hombres,Centro Poblado y Rural Disperso,0,1938,SINTETICO
+5154,2021,Hombres,Centro Poblado y Rural Disperso,10,1763,SINTETICO
+5154,2021,Hombres,Centro Poblado y Rural Disperso,20,2426,SINTETICO
+5154,2021,Hombres,Centro Poblado y Rural Disperso,30,1929,SINTETICO
+5154,2021,Hombres,Centro Poblado y Rural Disperso,40,917,SINTETICO
+5154,2021,Hombres,Centro Poblado y Rural Disperso,50,1356,SINTETICO
+5154,2021,Hombres,Centro Poblado y Rural Disperso,60,1815,SINTETICO
+5154,2021,Hombres,Centro Poblado y Rural Disperso,70,1439,SINTETICO
+5154,2021,Hombres,Centro Poblado y Rural Disperso,80,376,SINTETICO
+5154,2021,Mujeres,Cabecera Municipal,0,1580,SINTETICO
+5154,2021,Mujeres,Cabecera Municipal,10,1205,SINTETICO
+5154,2021,Mujeres,Cabecera Municipal,20,229,SINTETICO
+5154,2021,Mujeres,Cabecera Municipal,30,161,SINTETICO
+5154,2021,Mujeres,Cabecera Municipal,40,1189,SINTETICO
+5154,2021,Mujeres,Cabecera Municipal,50,1920,SINTETICO
+5154,2021,Mujeres,Cabecera Municipal,60,187,SINTETICO
+5154,2021,Mujeres,Cabecera Municipal,70,1495,SINTETICO
+5154,2021,Mujeres,Cabecera Municipal,80,1603,SINTETICO
+5154,2021,Mujeres,Centro Poblado y Rural Disperso,0,2826,SINTETICO
+5154,2021,Mujeres,Centro Poblado y Rural Disperso,10,1164,SINTETICO
+5154,2021,Mujeres,Centro Poblado y Rural Disperso,20,2914,SINTETICO
+5154,2021,Mujeres,Centro Poblado y Rural Disperso,30,1134,SINTETICO
+5154,2021,Mujeres,Centro Poblado y Rural Disperso,40,2728,SINTETICO
+5154,2021,Mujeres,Centro Poblado y Rural Disperso,50,1121,SINTETICO
+5154,2021,Mujeres,Centro Poblado y Rural Disperso,60,649,SINTETICO
+5154,2021,Mujeres,Centro Poblado y Rural Disperso,70,1496,SINTETICO
+5154,2021,Mujeres,Centro Poblado y Rural Disperso,80,1132,SINTETICO
+5154,2022,Hombres,Cabecera Municipal,0,261,SINTETICO
+5154,2022,Hombres,Cabecera Municipal,10,1900,SINTETICO
+5154,2022,Hombres,Cabecera Municipal,20,1465,SINTETICO
+5154,2022,Hombres,Cabecera Municipal,30,1958,SINTETICO
+5154,2022,Hombres,Cabecera Municipal,40,361,SINTETICO
+5154,2022,Hombres,Cabecera Municipal,50,1775,SINTETICO
+5154,2022,Hombres,Cabecera Municipal,60,2961,SINTETICO
+5154,2022,Hombres,Cabecera Municipal,70,983,SINTETICO
+5154,2022,Hombres,Cabecera Municipal,80,2415,SINTETICO
+5154,2022,Hombres,Centro Poblado y Rural Disperso,0,1632,SINTETICO
+5154,2022,Hombres,Centro Poblado y Rural Disperso,10,563,SINTETICO
+5154,2022,Hombres,Centro Poblado y Rural Disperso,20,488,SINTETICO
+5154,2022,Hombres,Centro Poblado y Rural Disperso,30,2327,SINTETICO
+5154,2022,Hombres,Centro Poblado y Rural Disperso,40,1147,SINTETICO
+5154,2022,Hombres,Centro Poblado y Rural Disperso,50,1490,SINTETICO
+5154,2022,Hombres,Centro Poblado y Rural Disperso,60,1676,SINTETICO
+5154,2022,Hombres,Centro Poblado y Rural Disperso,70,512,SINTETICO
+5154,2022,Hombres,Centro Poblado y Rural Disperso,80,2651,SINTETICO
+5154,2022,Mujeres,Cabecera Municipal,0,1750,SINTETICO
+5154,2022,Mujeres,Cabecera Municipal,10,2691,SINTETICO
+5154,2022,Mujeres,Cabecera Municipal,20,1468,SINTETICO
+5154,2022,Mujeres,Cabecera Municipal,30,543,SINTETICO
+5154,2022,Mujeres,Cabecera Municipal,40,1671,SINTETICO
+5154,2022,Mujeres,Cabecera Municipal,50,75,SINTETICO
+5154,2022,Mujeres,Cabecera Municipal,60,1276,SINTETICO
+5154,2022,Mujeres,Cabecera Municipal,70,2745,SINTETICO
+5154,2022,Mujeres,Cabecera Municipal,80,2800,SINTETICO
+5154,2022,Mujeres,Centro Poblado y Rural Disperso,0,1462,SINTETICO
+5154,2022,Mujeres,Centro Poblado y Rural Disperso,10,1417,SINTETICO
+5154,2022,Mujeres,Centro Poblado y Rural Disperso,20,570,SINTETICO
+5154,2022,Mujeres,Centro Poblado y Rural Disperso,30,1839,SINTETICO
+5154,2022,Mujeres,Centro Poblado y Rural Disperso,40,347,SINTETICO
+5154,2022,Mujeres,Centro Poblado y Rural Disperso,50,2496,SINTETICO
+5154,2022,Mujeres,Centro Poblado y Rural Disperso,60,364,SINTETICO
+5154,2022,Mujeres,Centro Poblado y Rural Disperso,70,2479,SINTETICO
+5154,2022,Mujeres,Centro Poblado y Rural Disperso,80,1176,SINTETICO
+5154,2023,Hombres,Cabecera Municipal,0,1876,SINTETICO
+5154,2023,Hombres,Cabecera Municipal,10,2163,SINTETICO
+5154,2023,Hombres,Cabecera Municipal,20,1223,SINTETICO
+5154,2023,Hombres,Cabecera Municipal,30,2172,SINTETICO
+5154,2023,Hombres,Cabecera Municipal,40,1521,SINTETICO
+5154,2023,Hombres,Cabecera Municipal,50,2568,SINTETICO
+5154,2023,Hombres,Cabecera Municipal,60,358,SINTETICO
+5154,2023,Hombres,Cabecera Municipal,70,598,SINTETICO
+5154,2023,Hombres,Cabecera Municipal,80,2766,SINTETICO
+5154,2023,Hombres,Centro Poblado y Rural Disperso,0,2503,SINTETICO
+5154,2023,Hombres,Centro Poblado y Rural Disperso,10,2007,SINTETICO
+5154,2023,Hombres,Centro Poblado y Rural Disperso,20,489,SINTETICO
+5154,2023,Hombres,Centro Poblado y Rural Disperso,30,377,SINTETICO
+5154,2023,Hombres,Centro Poblado y Rural Disperso,40,743,SINTETICO
+5154,2023,Hombres,Centro Poblado y Rural Disperso,50,2358,SINTETICO
+5154,2023,Hombres,Centro Poblado y Rural Disperso,60,290,SINTETICO
+5154,2023,Hombres,Centro Poblado y Rural Disperso,70,1017,SINTETICO
+5154,2023,Hombres,Centro Poblado y Rural Disperso,80,2807,SINTETICO
+5154,2023,Mujeres,Cabecera Municipal,0,2280,SINTETICO
+5154,2023,Mujeres,Cabecera Municipal,10,1654,SINTETICO
+5154,2023,Mujeres,Cabecera Municipal,20,1674,SINTETICO
+5154,2023,Mujeres,Cabecera Municipal,30,1381,SINTETICO
+5154,2023,Mujeres,Cabecera Municipal,40,1751,SINTETICO
+5154,2023,Mujeres,Cabecera Municipal,50,1927,SINTETICO
+5154,2023,Mujeres,Cabecera Municipal,60,306,SINTETICO
+5154,2023,Mujeres,Cabecera Municipal,70,2593,SINTETICO
+5154,2023,Mujeres,Cabecera Municipal,80,2746,SINTETICO
+5154,2023,Mujeres,Centro Poblado y Rural Disperso,0,1787,SINTETICO
+5154,2023,Mujeres,Centro Poblado y Rural Disperso,10,2318,SINTETICO
+5154,2023,Mujeres,Centro Poblado y Rural Disperso,20,343,SINTETICO
+5154,2023,Mujeres,Centro Poblado y Rural Disperso,30,527,SINTETICO
+5154,2023,Mujeres,Centro Poblado y Rural Disperso,40,1821,SINTETICO
+5154,2023,Mujeres,Centro Poblado y Rural Disperso,50,2258,SINTETICO
+5154,2023,Mujeres,Centro Poblado y Rural Disperso,60,2919,SINTETICO
+5154,2023,Mujeres,Centro Poblado y Rural Disperso,70,358,SINTETICO
+5154,2023,Mujeres,Centro Poblado y Rural Disperso,80,2170,SINTETICO
+5154,2024,Hombres,Cabecera Municipal,0,1855,SINTETICO
+5154,2024,Hombres,Cabecera Municipal,10,2833,SINTETICO
+5154,2024,Hombres,Cabecera Municipal,20,2063,SINTETICO
+5154,2024,Hombres,Cabecera Municipal,30,1833,SINTETICO
+5154,2024,Hombres,Cabecera Municipal,40,1836,SINTETICO
+5154,2024,Hombres,Cabecera Municipal,50,1033,SINTETICO
+5154,2024,Hombres,Cabecera Municipal,60,2392,SINTETICO
+5154,2024,Hombres,Cabecera Municipal,70,251,SINTETICO
+5154,2024,Hombres,Cabecera Municipal,80,685,SINTETICO
+5154,2024,Hombres,Centro Poblado y Rural Disperso,0,2594,SINTETICO
+5154,2024,Hombres,Centro Poblado y Rural Disperso,10,2812,SINTETICO
+5154,2024,Hombres,Centro Poblado y Rural Disperso,20,2941,SINTETICO
+5154,2024,Hombres,Centro Poblado y Rural Disperso,30,1454,SINTETICO
+5154,2024,Hombres,Centro Poblado y Rural Disperso,40,831,SINTETICO
+5154,2024,Hombres,Centro Poblado y Rural Disperso,50,1021,SINTETICO
+5154,2024,Hombres,Centro Poblado y Rural Disperso,60,561,SINTETICO
+5154,2024,Hombres,Centro Poblado y Rural Disperso,70,972,SINTETICO
+5154,2024,Hombres,Centro Poblado y Rural Disperso,80,1277,SINTETICO
+5154,2024,Mujeres,Cabecera Municipal,0,1512,SINTETICO
+5154,2024,Mujeres,Cabecera Municipal,10,184,SINTETICO
+5154,2024,Mujeres,Cabecera Municipal,20,2575,SINTETICO
+5154,2024,Mujeres,Cabecera Municipal,30,1007,SINTETICO
+5154,2024,Mujeres,Cabecera Municipal,40,2605,SINTETICO
+5154,2024,Mujeres,Cabecera Municipal,50,1794,SINTETICO
+5154,2024,Mujeres,Cabecera Municipal,60,432,SINTETICO
+5154,2024,Mujeres,Cabecera Municipal,70,1133,SINTETICO
+5154,2024,Mujeres,Cabecera Municipal,80,597,SINTETICO
+5154,2024,Mujeres,Centro Poblado y Rural Disperso,0,1958,SINTETICO
+5154,2024,Mujeres,Centro Poblado y Rural Disperso,10,1852,SINTETICO
+5154,2024,Mujeres,Centro Poblado y Rural Disperso,20,1496,SINTETICO
+5154,2024,Mujeres,Centro Poblado y Rural Disperso,30,1445,SINTETICO
+5154,2024,Mujeres,Centro Poblado y Rural Disperso,40,1914,SINTETICO
+5154,2024,Mujeres,Centro Poblado y Rural Disperso,50,2471,SINTETICO
+5154,2024,Mujeres,Centro Poblado y Rural Disperso,60,226,SINTETICO
+5154,2024,Mujeres,Centro Poblado y Rural Disperso,70,1086,SINTETICO
+5154,2024,Mujeres,Centro Poblado y Rural Disperso,80,1629,SINTETICO
+5154,2025,Hombres,Cabecera Municipal,0,1848,SINTETICO
+5154,2025,Hombres,Cabecera Municipal,10,2213,SINTETICO
+5154,2025,Hombres,Cabecera Municipal,20,152,SINTETICO
+5154,2025,Hombres,Cabecera Municipal,30,1415,SINTETICO
+5154,2025,Hombres,Cabecera Municipal,40,108,SINTETICO
+5154,2025,Hombres,Cabecera Municipal,50,805,SINTETICO
+5154,2025,Hombres,Cabecera Municipal,60,1187,SINTETICO
+5154,2025,Hombres,Cabecera Municipal,70,1918,SINTETICO
+5154,2025,Hombres,Cabecera Municipal,80,234,SINTETICO
+5154,2025,Hombres,Centro Poblado y Rural Disperso,0,2920,SINTETICO
+5154,2025,Hombres,Centro Poblado y Rural Disperso,10,932,SINTETICO
+5154,2025,Hombres,Centro Poblado y Rural Disperso,20,551,SINTETICO
+5154,2025,Hombres,Centro Poblado y Rural Disperso,30,2144,SINTETICO
+5154,2025,Hombres,Centro Poblado y Rural Disperso,40,2404,SINTETICO
+5154,2025,Hombres,Centro Poblado y Rural Disperso,50,1187,SINTETICO
+5154,2025,Hombres,Centro Poblado y Rural Disperso,60,2897,SINTETICO
+5154,2025,Hombres,Centro Poblado y Rural Disperso,70,1335,SINTETICO
+5154,2025,Hombres,Centro Poblado y Rural Disperso,80,309,SINTETICO
+5154,2025,Mujeres,Cabecera Municipal,0,1174,SINTETICO
+5154,2025,Mujeres,Cabecera Municipal,10,2454,SINTETICO
+5154,2025,Mujeres,Cabecera Municipal,20,1574,SINTETICO
+5154,2025,Mujeres,Cabecera Municipal,30,2475,SINTETICO
+5154,2025,Mujeres,Cabecera Municipal,40,269,SINTETICO
+5154,2025,Mujeres,Cabecera Municipal,50,868,SINTETICO
+5154,2025,Mujeres,Cabecera Municipal,60,279,SINTETICO
+5154,2025,Mujeres,Cabecera Municipal,70,1788,SINTETICO
+5154,2025,Mujeres,Cabecera Municipal,80,2686,SINTETICO
+5154,2025,Mujeres,Centro Poblado y Rural Disperso,0,1773,SINTETICO
+5154,2025,Mujeres,Centro Poblado y Rural Disperso,10,2402,SINTETICO
+5154,2025,Mujeres,Centro Poblado y Rural Disperso,20,2512,SINTETICO
+5154,2025,Mujeres,Centro Poblado y Rural Disperso,30,776,SINTETICO
+5154,2025,Mujeres,Centro Poblado y Rural Disperso,40,1669,SINTETICO
+5154,2025,Mujeres,Centro Poblado y Rural Disperso,50,91,SINTETICO
+5154,2025,Mujeres,Centro Poblado y Rural Disperso,60,959,SINTETICO
+5154,2025,Mujeres,Centro Poblado y Rural Disperso,70,1661,SINTETICO
+5154,2025,Mujeres,Centro Poblado y Rural Disperso,80,2246,SINTETICO
+5154,2026,Hombres,Cabecera Municipal,0,610,SINTETICO
+5154,2026,Hombres,Cabecera Municipal,10,2629,SINTETICO
+5154,2026,Hombres,Cabecera Municipal,20,430,SINTETICO
+5154,2026,Hombres,Cabecera Municipal,30,873,SINTETICO
+5154,2026,Hombres,Cabecera Municipal,40,1374,SINTETICO
+5154,2026,Hombres,Cabecera Municipal,50,855,SINTETICO
+5154,2026,Hombres,Cabecera Municipal,60,678,SINTETICO
+5154,2026,Hombres,Cabecera Municipal,70,1076,SINTETICO
+5154,2026,Hombres,Cabecera Municipal,80,490,SINTETICO
+5154,2026,Hombres,Centro Poblado y Rural Disperso,0,766,SINTETICO
+5154,2026,Hombres,Centro Poblado y Rural Disperso,10,2267,SINTETICO
+5154,2026,Hombres,Centro Poblado y Rural Disperso,20,1815,SINTETICO
+5154,2026,Hombres,Centro Poblado y Rural Disperso,30,1674,SINTETICO
+5154,2026,Hombres,Centro Poblado y Rural Disperso,40,1920,SINTETICO
+5154,2026,Hombres,Centro Poblado y Rural Disperso,50,2859,SINTETICO
+5154,2026,Hombres,Centro Poblado y Rural Disperso,60,2825,SINTETICO
+5154,2026,Hombres,Centro Poblado y Rural Disperso,70,740,SINTETICO
+5154,2026,Hombres,Centro Poblado y Rural Disperso,80,2033,SINTETICO
+5154,2026,Mujeres,Cabecera Municipal,0,525,SINTETICO
+5154,2026,Mujeres,Cabecera Municipal,10,2242,SINTETICO
+5154,2026,Mujeres,Cabecera Municipal,20,1549,SINTETICO
+5154,2026,Mujeres,Cabecera Municipal,30,2595,SINTETICO
+5154,2026,Mujeres,Cabecera Municipal,40,1134,SINTETICO
+5154,2026,Mujeres,Cabecera Municipal,50,1450,SINTETICO
+5154,2026,Mujeres,Cabecera Municipal,60,1343,SINTETICO
+5154,2026,Mujeres,Cabecera Municipal,70,2487,SINTETICO
+5154,2026,Mujeres,Cabecera Municipal,80,2624,SINTETICO
+5154,2026,Mujeres,Centro Poblado y Rural Disperso,0,1325,SINTETICO
+5154,2026,Mujeres,Centro Poblado y Rural Disperso,10,1319,SINTETICO
+5154,2026,Mujeres,Centro Poblado y Rural Disperso,20,1226,SINTETICO
+5154,2026,Mujeres,Centro Poblado y Rural Disperso,30,1514,SINTETICO
+5154,2026,Mujeres,Centro Poblado y Rural Disperso,40,1154,SINTETICO
+5154,2026,Mujeres,Centro Poblado y Rural Disperso,50,1503,SINTETICO
+5154,2026,Mujeres,Centro Poblado y Rural Disperso,60,1988,SINTETICO
+5154,2026,Mujeres,Centro Poblado y Rural Disperso,70,2904,SINTETICO
+5154,2026,Mujeres,Centro Poblado y Rural Disperso,80,2086,SINTETICO
+5615,2021,Hombres,Cabecera Municipal,0,279,SINTETICO
+5615,2021,Hombres,Cabecera Municipal,10,2410,SINTETICO
+5615,2021,Hombres,Cabecera Municipal,20,482,SINTETICO
+5615,2021,Hombres,Cabecera Municipal,30,2563,SINTETICO
+5615,2021,Hombres,Cabecera Municipal,40,2805,SINTETICO
+5615,2021,Hombres,Cabecera Municipal,50,2468,SINTETICO
+5615,2021,Hombres,Cabecera Municipal,60,2733,SINTETICO
+5615,2021,Hombres,Cabecera Municipal,70,2499,SINTETICO
+5615,2021,Hombres,Cabecera Municipal,80,1410,SINTETICO
+5615,2021,Hombres,Centro Poblado y Rural Disperso,0,2466,SINTETICO
+5615,2021,Hombres,Centro Poblado y Rural Disperso,10,2048,SINTETICO
+5615,2021,Hombres,Centro Poblado y Rural Disperso,20,1148,SINTETICO
+5615,2021,Hombres,Centro Poblado y Rural Disperso,30,788,SINTETICO
+5615,2021,Hombres,Centro Poblado y Rural Disperso,40,2586,SINTETICO
+5615,2021,Hombres,Centro Poblado y Rural Disperso,50,2044,SINTETICO
+5615,2021,Hombres,Centro Poblado y Rural Disperso,60,2717,SINTETICO
+5615,2021,Hombres,Centro Poblado y Rural Disperso,70,2103,SINTETICO
+5615,2021,Hombres,Centro Poblado y Rural Disperso,80,1361,SINTETICO
+5615,2021,Mujeres,Cabecera Municipal,0,2074,SINTETICO
+5615,2021,Mujeres,Cabecera Municipal,10,1869,SINTETICO
+5615,2021,Mujeres,Cabecera Municipal,20,2549,SINTETICO
+5615,2021,Mujeres,Cabecera Municipal,30,2496,SINTETICO
+5615,2021,Mujeres,Cabecera Municipal,40,1474,SINTETICO
+5615,2021,Mujeres,Cabecera Municipal,50,479,SINTETICO
+5615,2021,Mujeres,Cabecera Municipal,60,1319,SINTETICO
+5615,2021,Mujeres,Cabecera Municipal,70,854,SINTETICO
+5615,2021,Mujeres,Cabecera Municipal,80,714,SINTETICO
+5615,2021,Mujeres,Centro Poblado y Rural Disperso,0,2544,SINTETICO
+5615,2021,Mujeres,Centro Poblado y Rural Disperso,10,2570,SINTETICO
+5615,2021,Mujeres,Centro Poblado y Rural Disperso,20,1319,SINTETICO
+5615,2021,Mujeres,Centro Poblado y Rural Disperso,30,379,SINTETICO
+5615,2021,Mujeres,Centro Poblado y Rural Disperso,40,2730,SINTETICO
+5615,2021,Mujeres,Centro Poblado y Rural Disperso,50,2674,SINTETICO
+5615,2021,Mujeres,Centro Poblado y Rural Disperso,60,2315,SINTETICO
+5615,2021,Mujeres,Centro Poblado y Rural Disperso,70,2213,SINTETICO
+5615,2021,Mujeres,Centro Poblado y Rural Disperso,80,2053,SINTETICO
+5615,2022,Hombres,Cabecera Municipal,0,790,SINTETICO
+5615,2022,Hombres,Cabecera Municipal,10,1876,SINTETICO
+5615,2022,Hombres,Cabecera Municipal,20,757,SINTETICO
+5615,2022,Hombres,Cabecera Municipal,30,1191,SINTETICO
+5615,2022,Hombres,Cabecera Municipal,40,1197,SINTETICO
+5615,2022,Hombres,Cabecera Municipal,50,405,SINTETICO
+5615,2022,Hombres,Cabecera Municipal,60,553,SINTETICO
+5615,2022,Hombres,Cabecera Municipal,70,675,SINTETICO
+5615,2022,Hombres,Cabecera Municipal,80,2245,SINTETICO
+5615,2022,Hombres,Centro Poblado y Rural Disperso,0,359,SINTETICO
+5615,2022,Hombres,Centro Poblado y Rural Disperso,10,486,SINTETICO
+5615,2022,Hombres,Centro Poblado y Rural Disperso,20,1500,SINTETICO
+5615,2022,Hombres,Centro Poblado y Rural Disperso,30,373,SINTETICO
+5615,2022,Hombres,Centro Poblado y Rural Disperso,40,1874,SINTETICO
+5615,2022,Hombres,Centro Poblado y Rural Disperso,50,1593,SINTETICO
+5615,2022,Hombres,Centro Poblado y Rural Disperso,60,2739,SINTETICO
+5615,2022,Hombres,Centro Poblado y Rural Disperso,70,1179,SINTETICO
+5615,2022,Hombres,Centro Poblado y Rural Disperso,80,283,SINTETICO
+5615,2022,Mujeres,Cabecera Municipal,0,998,SINTETICO
+5615,2022,Mujeres,Cabecera Municipal,10,597,SINTETICO
+5615,2022,Mujeres,Cabecera Municipal,20,2606,SINTETICO
+5615,2022,Mujeres,Cabecera Municipal,30,1893,SINTETICO
+5615,2022,Mujeres,Cabecera Municipal,40,2662,SINTETICO
+5615,2022,Mujeres,Cabecera Municipal,50,2616,SINTETICO
+5615,2022,Mujeres,Cabecera Municipal,60,1849,SINTETICO
+5615,2022,Mujeres,Cabecera Municipal,70,1345,SINTETICO
+5615,2022,Mujeres,Cabecera Municipal,80,1498,SINTETICO
+5615,2022,Mujeres,Centro Poblado y Rural Disperso,0,1869,SINTETICO
+5615,2022,Mujeres,Centro Poblado y Rural Disperso,10,1382,SINTETICO
+5615,2022,Mujeres,Centro Poblado y Rural Disperso,20,228,SINTETICO
+5615,2022,Mujeres,Centro Poblado y Rural Disperso,30,639,SINTETICO
+5615,2022,Mujeres,Centro Poblado y Rural Disperso,40,2882,SINTETICO
+5615,2022,Mujeres,Centro Poblado y Rural Disperso,50,2788,SINTETICO
+5615,2022,Mujeres,Centro Poblado y Rural Disperso,60,348,SINTETICO
+5615,2022,Mujeres,Centro Poblado y Rural Disperso,70,2924,SINTETICO
+5615,2022,Mujeres,Centro Poblado y Rural Disperso,80,2304,SINTETICO
+5615,2023,Hombres,Cabecera Municipal,0,2951,SINTETICO
+5615,2023,Hombres,Cabecera Municipal,10,2750,SINTETICO
+5615,2023,Hombres,Cabecera Municipal,20,1429,SINTETICO
+5615,2023,Hombres,Cabecera Municipal,30,2332,SINTETICO
+5615,2023,Hombres,Cabecera Municipal,40,1828,SINTETICO
+5615,2023,Hombres,Cabecera Municipal,50,2229,SINTETICO
+5615,2023,Hombres,Cabecera Municipal,60,2214,SINTETICO
+5615,2023,Hombres,Cabecera Municipal,70,1684,SINTETICO
+5615,2023,Hombres,Cabecera Municipal,80,2313,SINTETICO
+5615,2023,Hombres,Centro Poblado y Rural Disperso,0,1400,SINTETICO
+5615,2023,Hombres,Centro Poblado y Rural Disperso,10,1750,SINTETICO
+5615,2023,Hombres,Centro Poblado y Rural Disperso,20,2151,SINTETICO
+5615,2023,Hombres,Centro Poblado y Rural Disperso,30,1322,SINTETICO
+5615,2023,Hombres,Centro Poblado y Rural Disperso,40,537,SINTETICO
+5615,2023,Hombres,Centro Poblado y Rural Disperso,50,2686,SINTETICO
+5615,2023,Hombres,Centro Poblado y Rural Disperso,60,672,SINTETICO
+5615,2023,Hombres,Centro Poblado y Rural Disperso,70,494,SINTETICO
+5615,2023,Hombres,Centro Poblado y Rural Disperso,80,1741,SINTETICO
+5615,2023,Mujeres,Cabecera Municipal,0,1255,SINTETICO
+5615,2023,Mujeres,Cabecera Municipal,10,1150,SINTETICO
+5615,2023,Mujeres,Cabecera Municipal,20,554,SINTETICO
+5615,2023,Mujeres,Cabecera Municipal,30,295,SINTETICO
+5615,2023,Mujeres,Cabecera Municipal,40,2050,SINTETICO
+5615,2023,Mujeres,Cabecera Municipal,50,1118,SINTETICO
+5615,2023,Mujeres,Cabecera Municipal,60,1343,SINTETICO
+5615,2023,Mujeres,Cabecera Municipal,70,1631,SINTETICO
+5615,2023,Mujeres,Cabecera Municipal,80,1423,SINTETICO
+5615,2023,Mujeres,Centro Poblado y Rural Disperso,0,75,SINTETICO
+5615,2023,Mujeres,Centro Poblado y Rural Disperso,10,2483,SINTETICO
+5615,2023,Mujeres,Centro Poblado y Rural Disperso,20,2507,SINTETICO
+5615,2023,Mujeres,Centro Poblado y Rural Disperso,30,2301,SINTETICO
+5615,2023,Mujeres,Centro Poblado y Rural Disperso,40,769,SINTETICO
+5615,2023,Mujeres,Centro Poblado y Rural Disperso,50,567,SINTETICO
+5615,2023,Mujeres,Centro Poblado y Rural Disperso,60,646,SINTETICO
+5615,2023,Mujeres,Centro Poblado y Rural Disperso,70,2829,SINTETICO
+5615,2023,Mujeres,Centro Poblado y Rural Disperso,80,317,SINTETICO
+5615,2024,Hombres,Cabecera Municipal,0,2480,SINTETICO
+5615,2024,Hombres,Cabecera Municipal,10,2577,SINTETICO
+5615,2024,Hombres,Cabecera Municipal,20,976,SINTETICO
+5615,2024,Hombres,Cabecera Municipal,30,2624,SINTETICO
+5615,2024,Hombres,Cabecera Municipal,40,582,SINTETICO
+5615,2024,Hombres,Cabecera Municipal,50,1509,SINTETICO
+5615,2024,Hombres,Cabecera Municipal,60,1910,SINTETICO
+5615,2024,Hombres,Cabecera Municipal,70,2164,SINTETICO
+5615,2024,Hombres,Cabecera Municipal,80,1892,SINTETICO
+5615,2024,Hombres,Centro Poblado y Rural Disperso,0,327,SINTETICO
+5615,2024,Hombres,Centro Poblado y Rural Disperso,10,619,SINTETICO
+5615,2024,Hombres,Centro Poblado y Rural Disperso,20,2146,SINTETICO
+5615,2024,Hombres,Centro Poblado y Rural Disperso,30,1500,SINTETICO
+5615,2024,Hombres,Centro Poblado y Rural Disperso,40,310,SINTETICO
+5615,2024,Hombres,Centro Poblado y Rural Disperso,50,1081,SINTETICO
+5615,2024,Hombres,Centro Poblado y Rural Disperso,60,115,SINTETICO
+5615,2024,Hombres,Centro Poblado y Rural Disperso,70,802,SINTETICO
+5615,2024,Hombres,Centro Poblado y Rural Disperso,80,1367,SINTETICO
+5615,2024,Mujeres,Cabecera Municipal,0,1903,SINTETICO
+5615,2024,Mujeres,Cabecera Municipal,10,1801,SINTETICO
+5615,2024,Mujeres,Cabecera Municipal,20,2225,SINTETICO
+5615,2024,Mujeres,Cabecera Municipal,30,150,SINTETICO
+5615,2024,Mujeres,Cabecera Municipal,40,1873,SINTETICO
+5615,2024,Mujeres,Cabecera Municipal,50,2489,SINTETICO
+5615,2024,Mujeres,Cabecera Municipal,60,699,SINTETICO
+5615,2024,Mujeres,Cabecera Municipal,70,1612,SINTETICO
+5615,2024,Mujeres,Cabecera Municipal,80,1322,SINTETICO
+5615,2024,Mujeres,Centro Poblado y Rural Disperso,0,1906,SINTETICO
+5615,2024,Mujeres,Centro Poblado y Rural Disperso,10,490,SINTETICO
+5615,2024,Mujeres,Centro Poblado y Rural Disperso,20,1355,SINTETICO
+5615,2024,Mujeres,Centro Poblado y Rural Disperso,30,1357,SINTETICO
+5615,2024,Mujeres,Centro Poblado y Rural Disperso,40,288,SINTETICO
+5615,2024,Mujeres,Centro Poblado y Rural Disperso,50,1984,SINTETICO
+5615,2024,Mujeres,Centro Poblado y Rural Disperso,60,1601,SINTETICO
+5615,2024,Mujeres,Centro Poblado y Rural Disperso,70,1543,SINTETICO
+5615,2024,Mujeres,Centro Poblado y Rural Disperso,80,253,SINTETICO
+5615,2025,Hombres,Cabecera Municipal,0,2291,SINTETICO
+5615,2025,Hombres,Cabecera Municipal,10,2185,SINTETICO
+5615,2025,Hombres,Cabecera Municipal,20,121,SINTETICO
+5615,2025,Hombres,Cabecera Municipal,30,2356,SINTETICO
+5615,2025,Hombres,Cabecera Municipal,40,265,SINTETICO
+5615,2025,Hombres,Cabecera Municipal,50,975,SINTETICO
+5615,2025,Hombres,Cabecera Municipal,60,1320,SINTETICO
+5615,2025,Hombres,Cabecera Municipal,70,2210,SINTETICO
+5615,2025,Hombres,Cabecera Municipal,80,1169,SINTETICO
+5615,2025,Hombres,Centro Poblado y Rural Disperso,0,907,SINTETICO
+5615,2025,Hombres,Centro Poblado y Rural Disperso,10,1451,SINTETICO
+5615,2025,Hombres,Centro Poblado y Rural Disperso,20,993,SINTETICO
+5615,2025,Hombres,Centro Poblado y Rural Disperso,30,1785,SINTETICO
+5615,2025,Hombres,Centro Poblado y Rural Disperso,40,419,SINTETICO
+5615,2025,Hombres,Centro Poblado y Rural Disperso,50,2199,SINTETICO
+5615,2025,Hombres,Centro Poblado y Rural Disperso,60,2530,SINTETICO
+5615,2025,Hombres,Centro Poblado y Rural Disperso,70,2353,SINTETICO
+5615,2025,Hombres,Centro Poblado y Rural Disperso,80,1513,SINTETICO
+5615,2025,Mujeres,Cabecera Municipal,0,2965,SINTETICO
+5615,2025,Mujeres,Cabecera Municipal,10,1233,SINTETICO
+5615,2025,Mujeres,Cabecera Municipal,20,2145,SINTETICO
+5615,2025,Mujeres,Cabecera Municipal,30,210,SINTETICO
+5615,2025,Mujeres,Cabecera Municipal,40,1751,SINTETICO
+5615,2025,Mujeres,Cabecera Municipal,50,84,SINTETICO
+5615,2025,Mujeres,Cabecera Municipal,60,873,SINTETICO
+5615,2025,Mujeres,Cabecera Municipal,70,1143,SINTETICO
+5615,2025,Mujeres,Cabecera Municipal,80,2411,SINTETICO
+5615,2025,Mujeres,Centro Poblado y Rural Disperso,0,1948,SINTETICO
+5615,2025,Mujeres,Centro Poblado y Rural Disperso,10,1619,SINTETICO
+5615,2025,Mujeres,Centro Poblado y Rural Disperso,20,1173,SINTETICO
+5615,2025,Mujeres,Centro Poblado y Rural Disperso,30,1702,SINTETICO
+5615,2025,Mujeres,Centro Poblado y Rural Disperso,40,2690,SINTETICO
+5615,2025,Mujeres,Centro Poblado y Rural Disperso,50,635,SINTETICO
+5615,2025,Mujeres,Centro Poblado y Rural Disperso,60,2803,SINTETICO
+5615,2025,Mujeres,Centro Poblado y Rural Disperso,70,2771,SINTETICO
+5615,2025,Mujeres,Centro Poblado y Rural Disperso,80,1269,SINTETICO
+5615,2026,Hombres,Cabecera Municipal,0,840,SINTETICO
+5615,2026,Hombres,Cabecera Municipal,10,766,SINTETICO
+5615,2026,Hombres,Cabecera Municipal,20,2267,SINTETICO
+5615,2026,Hombres,Cabecera Municipal,30,1068,SINTETICO
+5615,2026,Hombres,Cabecera Municipal,40,2151,SINTETICO
+5615,2026,Hombres,Cabecera Municipal,50,1433,SINTETICO
+5615,2026,Hombres,Cabecera Municipal,60,2396,SINTETICO
+5615,2026,Hombres,Cabecera Municipal,70,1772,SINTETICO
+5615,2026,Hombres,Cabecera Municipal,80,2326,SINTETICO
+5615,2026,Hombres,Centro Poblado y Rural Disperso,0,2417,SINTETICO
+5615,2026,Hombres,Centro Poblado y Rural Disperso,10,1512,SINTETICO
+5615,2026,Hombres,Centro Poblado y Rural Disperso,20,644,SINTETICO
+5615,2026,Hombres,Centro Poblado y Rural Disperso,30,2290,SINTETICO
+5615,2026,Hombres,Centro Poblado y Rural Disperso,40,1013,SINTETICO
+5615,2026,Hombres,Centro Poblado y Rural Disperso,50,2200,SINTETICO
+5615,2026,Hombres,Centro Poblado y Rural Disperso,60,607,SINTETICO
+5615,2026,Hombres,Centro Poblado y Rural Disperso,70,1148,SINTETICO
+5615,2026,Hombres,Centro Poblado y Rural Disperso,80,2539,SINTETICO
+5615,2026,Mujeres,Cabecera Municipal,0,2173,SINTETICO
+5615,2026,Mujeres,Cabecera Municipal,10,1081,SINTETICO
+5615,2026,Mujeres,Cabecera Municipal,20,2584,SINTETICO
+5615,2026,Mujeres,Cabecera Municipal,30,848,SINTETICO
+5615,2026,Mujeres,Cabecera Municipal,40,2058,SINTETICO
+5615,2026,Mujeres,Cabecera Municipal,50,294,SINTETICO
+5615,2026,Mujeres,Cabecera Municipal,60,1953,SINTETICO
+5615,2026,Mujeres,Cabecera Municipal,70,1958,SINTETICO
+5615,2026,Mujeres,Cabecera Municipal,80,236,SINTETICO
+5615,2026,Mujeres,Centro Poblado y Rural Disperso,0,2830,SINTETICO
+5615,2026,Mujeres,Centro Poblado y Rural Disperso,10,2007,SINTETICO
+5615,2026,Mujeres,Centro Poblado y Rural Disperso,20,895,SINTETICO
+5615,2026,Mujeres,Centro Poblado y Rural Disperso,30,1084,SINTETICO
+5615,2026,Mujeres,Centro Poblado y Rural Disperso,40,1115,SINTETICO
+5615,2026,Mujeres,Centro Poblado y Rural Disperso,50,2137,SINTETICO
+5615,2026,Mujeres,Centro Poblado y Rural Disperso,60,2132,SINTETICO
+5615,2026,Mujeres,Centro Poblado y Rural Disperso,70,1032,SINTETICO
+5615,2026,Mujeres,Centro Poblado y Rural Disperso,80,2125,SINTETICO
+5837,2021,Hombres,Cabecera Municipal,0,606,SINTETICO
+5837,2021,Hombres,Cabecera Municipal,10,557,SINTETICO
+5837,2021,Hombres,Cabecera Municipal,20,2921,SINTETICO
+5837,2021,Hombres,Cabecera Municipal,30,1080,SINTETICO
+5837,2021,Hombres,Cabecera Municipal,40,1634,SINTETICO
+5837,2021,Hombres,Cabecera Municipal,50,2896,SINTETICO
+5837,2021,Hombres,Cabecera Municipal,60,2271,SINTETICO
+5837,2021,Hombres,Cabecera Municipal,70,1226,SINTETICO
+5837,2021,Hombres,Cabecera Municipal,80,1368,SINTETICO
+5837,2021,Hombres,Centro Poblado y Rural Disperso,0,2126,SINTETICO
+5837,2021,Hombres,Centro Poblado y Rural Disperso,10,2368,SINTETICO
+5837,2021,Hombres,Centro Poblado y Rural Disperso,20,1181,SINTETICO
+5837,2021,Hombres,Centro Poblado y Rural Disperso,30,1869,SINTETICO
+5837,2021,Hombres,Centro Poblado y Rural Disperso,40,2788,SINTETICO
+5837,2021,Hombres,Centro Poblado y Rural Disperso,50,1544,SINTETICO
+5837,2021,Hombres,Centro Poblado y Rural Disperso,60,986,SINTETICO
+5837,2021,Hombres,Centro Poblado y Rural Disperso,70,1050,SINTETICO
+5837,2021,Hombres,Centro Poblado y Rural Disperso,80,2125,SINTETICO
+5837,2021,Mujeres,Cabecera Municipal,0,2375,SINTETICO
+5837,2021,Mujeres,Cabecera Municipal,10,383,SINTETICO
+5837,2021,Mujeres,Cabecera Municipal,20,1725,SINTETICO
+5837,2021,Mujeres,Cabecera Municipal,30,422,SINTETICO
+5837,2021,Mujeres,Cabecera Municipal,40,143,SINTETICO
+5837,2021,Mujeres,Cabecera Municipal,50,2033,SINTETICO
+5837,2021,Mujeres,Cabecera Municipal,60,1905,SINTETICO
+5837,2021,Mujeres,Cabecera Municipal,70,1225,SINTETICO
+5837,2021,Mujeres,Cabecera Municipal,80,2267,SINTETICO
+5837,2021,Mujeres,Centro Poblado y Rural Disperso,0,2791,SINTETICO
+5837,2021,Mujeres,Centro Poblado y Rural Disperso,10,2461,SINTETICO
+5837,2021,Mujeres,Centro Poblado y Rural Disperso,20,2208,SINTETICO
+5837,2021,Mujeres,Centro Poblado y Rural Disperso,30,1081,SINTETICO
+5837,2021,Mujeres,Centro Poblado y Rural Disperso,40,871,SINTETICO
+5837,2021,Mujeres,Centro Poblado y Rural Disperso,50,302,SINTETICO
+5837,2021,Mujeres,Centro Poblado y Rural Disperso,60,2058,SINTETICO
+5837,2021,Mujeres,Centro Poblado y Rural Disperso,70,209,SINTETICO
+5837,2021,Mujeres,Centro Poblado y Rural Disperso,80,208,SINTETICO
+5837,2022,Hombres,Cabecera Municipal,0,1918,SINTETICO
+5837,2022,Hombres,Cabecera Municipal,10,139,SINTETICO
+5837,2022,Hombres,Cabecera Municipal,20,998,SINTETICO
+5837,2022,Hombres,Cabecera Municipal,30,1205,SINTETICO
+5837,2022,Hombres,Cabecera Municipal,40,1594,SINTETICO
+5837,2022,Hombres,Cabecera Municipal,50,646,SINTETICO
+5837,2022,Hombres,Cabecera Municipal,60,1840,SINTETICO
+5837,2022,Hombres,Cabecera Municipal,70,846,SINTETICO
+5837,2022,Hombres,Cabecera Municipal,80,635,SINTETICO
+5837,2022,Hombres,Centro Poblado y Rural Disperso,0,2989,SINTETICO
+5837,2022,Hombres,Centro Poblado y Rural Disperso,10,1530,SINTETICO
+5837,2022,Hombres,Centro Poblado y Rural Disperso,20,518,SINTETICO
+5837,2022,Hombres,Centro Poblado y Rural Disperso,30,2829,SINTETICO
+5837,2022,Hombres,Centro Poblado y Rural Disperso,40,685,SINTETICO
+5837,2022,Hombres,Centro Poblado y Rural Disperso,50,2115,SINTETICO
+5837,2022,Hombres,Centro Poblado y Rural Disperso,60,129,SINTETICO
+5837,2022,Hombres,Centro Poblado y Rural Disperso,70,484,SINTETICO
+5837,2022,Hombres,Centro Poblado y Rural Disperso,80,1149,SINTETICO
+5837,2022,Mujeres,Cabecera Municipal,0,1882,SINTETICO
+5837,2022,Mujeres,Cabecera Municipal,10,412,SINTETICO
+5837,2022,Mujeres,Cabecera Municipal,20,2643,SINTETICO
+5837,2022,Mujeres,Cabecera Municipal,30,660,SINTETICO
+5837,2022,Mujeres,Cabecera Municipal,40,584,SINTETICO
+5837,2022,Mujeres,Cabecera Municipal,50,1110,SINTETICO
+5837,2022,Mujeres,Cabecera Municipal,60,111,SINTETICO
+5837,2022,Mujeres,Cabecera Municipal,70,330,SINTETICO
+5837,2022,Mujeres,Cabecera Municipal,80,448,SINTETICO
+5837,2022,Mujeres,Centro Poblado y Rural Disperso,0,781,SINTETICO
+5837,2022,Mujeres,Centro Poblado y Rural Disperso,10,658,SINTETICO
+5837,2022,Mujeres,Centro Poblado y Rural Disperso,20,2106,SINTETICO
+5837,2022,Mujeres,Centro Poblado y Rural Disperso,30,1400,SINTETICO
+5837,2022,Mujeres,Centro Poblado y Rural Disperso,40,315,SINTETICO
+5837,2022,Mujeres,Centro Poblado y Rural Disperso,50,1604,SINTETICO
+5837,2022,Mujeres,Centro Poblado y Rural Disperso,60,2420,SINTETICO
+5837,2022,Mujeres,Centro Poblado y Rural Disperso,70,1304,SINTETICO
+5837,2022,Mujeres,Centro Poblado y Rural Disperso,80,1104,SINTETICO
+5837,2023,Hombres,Cabecera Municipal,0,1520,SINTETICO
+5837,2023,Hombres,Cabecera Municipal,10,1458,SINTETICO
+5837,2023,Hombres,Cabecera Municipal,20,296,SINTETICO
+5837,2023,Hombres,Cabecera Municipal,30,2720,SINTETICO
+5837,2023,Hombres,Cabecera Municipal,40,353,SINTETICO
+5837,2023,Hombres,Cabecera Municipal,50,2752,SINTETICO
+5837,2023,Hombres,Cabecera Municipal,60,2539,SINTETICO
+5837,2023,Hombres,Cabecera Municipal,70,1364,SINTETICO
+5837,2023,Hombres,Cabecera Municipal,80,1940,SINTETICO
+5837,2023,Hombres,Centro Poblado y Rural Disperso,0,325,SINTETICO
+5837,2023,Hombres,Centro Poblado y Rural Disperso,10,2889,SINTETICO
+5837,2023,Hombres,Centro Poblado y Rural Disperso,20,1471,SINTETICO
+5837,2023,Hombres,Centro Poblado y Rural Disperso,30,842,SINTETICO
+5837,2023,Hombres,Centro Poblado y Rural Disperso,40,649,SINTETICO
+5837,2023,Hombres,Centro Poblado y Rural Disperso,50,2695,SINTETICO
+5837,2023,Hombres,Centro Poblado y Rural Disperso,60,395,SINTETICO
+5837,2023,Hombres,Centro Poblado y Rural Disperso,70,1508,SINTETICO
+5837,2023,Hombres,Centro Poblado y Rural Disperso,80,2206,SINTETICO
+5837,2023,Mujeres,Cabecera Municipal,0,2334,SINTETICO
+5837,2023,Mujeres,Cabecera Municipal,10,2544,SINTETICO
+5837,2023,Mujeres,Cabecera Municipal,20,1420,SINTETICO
+5837,2023,Mujeres,Cabecera Municipal,30,148,SINTETICO
+5837,2023,Mujeres,Cabecera Municipal,40,1905,SINTETICO
+5837,2023,Mujeres,Cabecera Municipal,50,2318,SINTETICO
+5837,2023,Mujeres,Cabecera Municipal,60,494,SINTETICO
+5837,2023,Mujeres,Cabecera Municipal,70,2526,SINTETICO
+5837,2023,Mujeres,Cabecera Municipal,80,2718,SINTETICO
+5837,2023,Mujeres,Centro Poblado y Rural Disperso,0,1824,SINTETICO
+5837,2023,Mujeres,Centro Poblado y Rural Disperso,10,2441,SINTETICO
+5837,2023,Mujeres,Centro Poblado y Rural Disperso,20,470,SINTETICO
+5837,2023,Mujeres,Centro Poblado y Rural Disperso,30,2578,SINTETICO
+5837,2023,Mujeres,Centro Poblado y Rural Disperso,40,2693,SINTETICO
+5837,2023,Mujeres,Centro Poblado y Rural Disperso,50,1095,SINTETICO
+5837,2023,Mujeres,Centro Poblado y Rural Disperso,60,2747,SINTETICO
+5837,2023,Mujeres,Centro Poblado y Rural Disperso,70,662,SINTETICO
+5837,2023,Mujeres,Centro Poblado y Rural Disperso,80,218,SINTETICO
+5837,2024,Hombres,Cabecera Municipal,0,2876,SINTETICO
+5837,2024,Hombres,Cabecera Municipal,10,1165,SINTETICO
+5837,2024,Hombres,Cabecera Municipal,20,842,SINTETICO
+5837,2024,Hombres,Cabecera Municipal,30,425,SINTETICO
+5837,2024,Hombres,Cabecera Municipal,40,684,SINTETICO
+5837,2024,Hombres,Cabecera Municipal,50,1013,SINTETICO
+5837,2024,Hombres,Cabecera Municipal,60,749,SINTETICO
+5837,2024,Hombres,Cabecera Municipal,70,2706,SINTETICO
+5837,2024,Hombres,Cabecera Municipal,80,400,SINTETICO
+5837,2024,Hombres,Centro Poblado y Rural Disperso,0,2420,SINTETICO
+5837,2024,Hombres,Centro Poblado y Rural Disperso,10,1442,SINTETICO
+5837,2024,Hombres,Centro Poblado y Rural Disperso,20,1345,SINTETICO
+5837,2024,Hombres,Centro Poblado y Rural Disperso,30,2087,SINTETICO
+5837,2024,Hombres,Centro Poblado y Rural Disperso,40,1796,SINTETICO
+5837,2024,Hombres,Centro Poblado y Rural Disperso,50,2891,SINTETICO
+5837,2024,Hombres,Centro Poblado y Rural Disperso,60,801,SINTETICO
+5837,2024,Hombres,Centro Poblado y Rural Disperso,70,1723,SINTETICO
+5837,2024,Hombres,Centro Poblado y Rural Disperso,80,81,SINTETICO
+5837,2024,Mujeres,Cabecera Municipal,0,147,SINTETICO
+5837,2024,Mujeres,Cabecera Municipal,10,2478,SINTETICO
+5837,2024,Mujeres,Cabecera Municipal,20,2163,SINTETICO
+5837,2024,Mujeres,Cabecera Municipal,30,2285,SINTETICO
+5837,2024,Mujeres,Cabecera Municipal,40,1768,SINTETICO
+5837,2024,Mujeres,Cabecera Municipal,50,1105,SINTETICO
+5837,2024,Mujeres,Cabecera Municipal,60,1075,SINTETICO
+5837,2024,Mujeres,Cabecera Municipal,70,755,SINTETICO
+5837,2024,Mujeres,Cabecera Municipal,80,2790,SINTETICO
+5837,2024,Mujeres,Centro Poblado y Rural Disperso,0,2597,SINTETICO
+5837,2024,Mujeres,Centro Poblado y Rural Disperso,10,2196,SINTETICO
+5837,2024,Mujeres,Centro Poblado y Rural Disperso,20,2524,SINTETICO
+5837,2024,Mujeres,Centro Poblado y Rural Disperso,30,917,SINTETICO
+5837,2024,Mujeres,Centro Poblado y Rural Disperso,40,2201,SINTETICO
+5837,2024,Mujeres,Centro Poblado y Rural Disperso,50,2644,SINTETICO
+5837,2024,Mujeres,Centro Poblado y Rural Disperso,60,229,SINTETICO
+5837,2024,Mujeres,Centro Poblado y Rural Disperso,70,278,SINTETICO
+5837,2024,Mujeres,Centro Poblado y Rural Disperso,80,418,SINTETICO
+5837,2025,Hombres,Cabecera Municipal,0,1593,SINTETICO
+5837,2025,Hombres,Cabecera Municipal,10,575,SINTETICO
+5837,2025,Hombres,Cabecera Municipal,20,2059,SINTETICO
+5837,2025,Hombres,Cabecera Municipal,30,802,SINTETICO
+5837,2025,Hombres,Cabecera Municipal,40,2500,SINTETICO
+5837,2025,Hombres,Cabecera Municipal,50,1752,SINTETICO
+5837,2025,Hombres,Cabecera Municipal,60,827,SINTETICO
+5837,2025,Hombres,Cabecera Municipal,70,575,SINTETICO
+5837,2025,Hombres,Cabecera Municipal,80,1968,SINTETICO
+5837,2025,Hombres,Centro Poblado y Rural Disperso,0,1433,SINTETICO
+5837,2025,Hombres,Centro Poblado y Rural Disperso,10,1693,SINTETICO
+5837,2025,Hombres,Centro Poblado y Rural Disperso,20,2927,SINTETICO
+5837,2025,Hombres,Centro Poblado y Rural Disperso,30,276,SINTETICO
+5837,2025,Hombres,Centro Poblado y Rural Disperso,40,1276,SINTETICO
+5837,2025,Hombres,Centro Poblado y Rural Disperso,50,2278,SINTETICO
+5837,2025,Hombres,Centro Poblado y Rural Disperso,60,1322,SINTETICO
+5837,2025,Hombres,Centro Poblado y Rural Disperso,70,1618,SINTETICO
+5837,2025,Hombres,Centro Poblado y Rural Disperso,80,2852,SINTETICO
+5837,2025,Mujeres,Cabecera Municipal,0,1349,SINTETICO
+5837,2025,Mujeres,Cabecera Municipal,10,254,SINTETICO
+5837,2025,Mujeres,Cabecera Municipal,20,618,SINTETICO
+5837,2025,Mujeres,Cabecera Municipal,30,730,SINTETICO
+5837,2025,Mujeres,Cabecera Municipal,40,1671,SINTETICO
+5837,2025,Mujeres,Cabecera Municipal,50,2156,SINTETICO
+5837,2025,Mujeres,Cabecera Municipal,60,1361,SINTETICO
+5837,2025,Mujeres,Cabecera Municipal,70,1793,SINTETICO
+5837,2025,Mujeres,Cabecera Municipal,80,88,SINTETICO
+5837,2025,Mujeres,Centro Poblado y Rural Disperso,0,1959,SINTETICO
+5837,2025,Mujeres,Centro Poblado y Rural Disperso,10,181,SINTETICO
+5837,2025,Mujeres,Centro Poblado y Rural Disperso,20,1948,SINTETICO
+5837,2025,Mujeres,Centro Poblado y Rural Disperso,30,1279,SINTETICO
+5837,2025,Mujeres,Centro Poblado y Rural Disperso,40,2125,SINTETICO
+5837,2025,Mujeres,Centro Poblado y Rural Disperso,50,438,SINTETICO
+5837,2025,Mujeres,Centro Poblado y Rural Disperso,60,2455,SINTETICO
+5837,2025,Mujeres,Centro Poblado y Rural Disperso,70,1180,SINTETICO
+5837,2025,Mujeres,Centro Poblado y Rural Disperso,80,1758,SINTETICO
+5837,2026,Hombres,Cabecera Municipal,0,1664,SINTETICO
+5837,2026,Hombres,Cabecera Municipal,10,640,SINTETICO
+5837,2026,Hombres,Cabecera Municipal,20,2313,SINTETICO
+5837,2026,Hombres,Cabecera Municipal,30,386,SINTETICO
+5837,2026,Hombres,Cabecera Municipal,40,1986,SINTETICO
+5837,2026,Hombres,Cabecera Municipal,50,836,SINTETICO
+5837,2026,Hombres,Cabecera Municipal,60,334,SINTETICO
+5837,2026,Hombres,Cabecera Municipal,70,497,SINTETICO
+5837,2026,Hombres,Cabecera Municipal,80,1237,SINTETICO
+5837,2026,Hombres,Centro Poblado y Rural Disperso,0,152,SINTETICO
+5837,2026,Hombres,Centro Poblado y Rural Disperso,10,688,SINTETICO
+5837,2026,Hombres,Centro Poblado y Rural Disperso,20,2601,SINTETICO
+5837,2026,Hombres,Centro Poblado y Rural Disperso,30,1015,SINTETICO
+5837,2026,Hombres,Centro Poblado y Rural Disperso,40,2177,SINTETICO
+5837,2026,Hombres,Centro Poblado y Rural Disperso,50,541,SINTETICO
+5837,2026,Hombres,Centro Poblado y Rural Disperso,60,459,SINTETICO
+5837,2026,Hombres,Centro Poblado y Rural Disperso,70,1637,SINTETICO
+5837,2026,Hombres,Centro Poblado y Rural Disperso,80,1927,SINTETICO
+5837,2026,Mujeres,Cabecera Municipal,0,1409,SINTETICO
+5837,2026,Mujeres,Cabecera Municipal,10,2180,SINTETICO
+5837,2026,Mujeres,Cabecera Municipal,20,2947,SINTETICO
+5837,2026,Mujeres,Cabecera Municipal,30,2459,SINTETICO
+5837,2026,Mujeres,Cabecera Municipal,40,345,SINTETICO
+5837,2026,Mujeres,Cabecera Municipal,50,2485,SINTETICO
+5837,2026,Mujeres,Cabecera Municipal,60,1125,SINTETICO
+5837,2026,Mujeres,Cabecera Municipal,70,719,SINTETICO
+5837,2026,Mujeres,Cabecera Municipal,80,2227,SINTETICO
+5837,2026,Mujeres,Centro Poblado y Rural Disperso,0,1941,SINTETICO
+5837,2026,Mujeres,Centro Poblado y Rural Disperso,10,2691,SINTETICO
+5837,2026,Mujeres,Centro Poblado y Rural Disperso,20,2906,SINTETICO
+5837,2026,Mujeres,Centro Poblado y Rural Disperso,30,1876,SINTETICO
+5837,2026,Mujeres,Centro Poblado y Rural Disperso,40,318,SINTETICO
+5837,2026,Mujeres,Centro Poblado y Rural Disperso,50,2567,SINTETICO
+5837,2026,Mujeres,Centro Poblado y Rural Disperso,60,1079,SINTETICO
+5837,2026,Mujeres,Centro Poblado y Rural Disperso,70,725,SINTETICO
+5837,2026,Mujeres,Centro Poblado y Rural Disperso,80,1657,SINTETICO

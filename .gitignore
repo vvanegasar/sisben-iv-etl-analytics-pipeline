@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# Entornos virtuales
+.env
+.venv
+env/
+venv/
+
+# Microdatos Sisben — protegidos Ley 1581/2012
+*.parquet
+csvs_sisben*/
+sisben_master*
+
+# CSVs con datos personales
+mpio_*.csv
+dim_descargas_municipios.csv
+
+# Informes municipales en PDF (nunca se versionan)
+docs/informes/
+
+# Salidas locales del pipeline (Parquet, CSV, logs)
+out/
+publicacion_local/
+
+# Logs de ejecución
+*.log
+
+# Archivos temporales
+*.bak
+*.tmp
+dax_dict_dump.txt
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Notas locales de publicación (no se versionan)
+PUBLICAR.md
+PENDIENTE_PERMISO.md
