@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you refer to this pipeline, please cite it as below."
+type: software
+title: "SISBEN IV — ETL Pipeline & Power BI Semantic Model"
+abstract: >-
+  End-to-end pipeline that ingests, cleans, validates and models SISBEN IV microdata for the
+  125 municipalities of Antioquia, Colombia, and serves the results through a Power BI tabular
+  model defined as code (TMDL). At full scale it processed about 25 million records across six
+  annual snapshots (2021–2026). This public version contains no microdata; the sample in
+  data/sample/ is synthetic.
+authors:
+  - family-names: "Vanegas Aristizábal"
+    given-names: "Valentina"
+    orcid: "https://orcid.org/0009-0004-7133-9367"
+    website: "https://valentina-vanegas.pages.dev"
+date-released: "2026-11-19"
+repository-code: "https://github.com/vvanegasar/sisben-iv-etl-analytics-pipeline"
+url: "https://valentina-vanegas.pages.dev/work/sisben-etl/"
+keywords:
+  - SISBEN IV
+  - ETL
+  - data engineering
+  - Power BI
+  - TMDL
+  - DuckDB
+  - Parquet
+  - Python
+  - data quality
+  - Antioquia
