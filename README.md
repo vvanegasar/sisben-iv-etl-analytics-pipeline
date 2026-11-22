@@ -183,3 +183,7 @@ Links, terms and checksums are in [`data/SOURCES.md`](data/SOURCES.md). The repo
 ## Author
 
 **Valentina Vanegas Aristizábal** · Data & Economics Intern (2026) · [valentina-vanegas.pages.dev](https://valentina-vanegas.pages.dev/work/sisben-etl/)
+
+## License
+
+MIT. See [LICENSE](LICENSE). The SISBEN IV data itself is not included and is not covered by this license.

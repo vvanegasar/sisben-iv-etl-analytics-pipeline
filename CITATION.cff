@@ -14,6 +14,8 @@ authors:
     orcid: "https://orcid.org/0009-0004-7133-9367"
     website: "https://valentina-vanegas.pages.dev"
 date-released: "2026-11-21"
+version: "1.0.0"
+license: MIT
 repository-code: "https://github.com/vvanegasar/sisben-iv-etl-analytics-pipeline"
 url: "https://valentina-vanegas.pages.dev/work/sisben-etl/"
 keywords:
