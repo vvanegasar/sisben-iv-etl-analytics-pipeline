@@ -182,4 +182,4 @@ Links, terms and checksums are in [`data/SOURCES.md`](data/SOURCES.md). The repo
 
 ## Author
 
-**Valentina Vanegas Aristizábal** · Data & Economics Intern (2026)
+**Valentina Vanegas Aristizábal** · Data & Economics Intern (2026) · [valentina-vanegas.pages.dev](https://valentina-vanegas.pages.dev/work/sisben-etl/)
