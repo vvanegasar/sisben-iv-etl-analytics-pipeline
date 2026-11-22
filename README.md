@@ -1,5 +1,7 @@
 # SISBEN IV — ETL Pipeline & Power BI Semantic Model
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24442461.svg)](https://doi.org/10.5281/zenodo.24442461)
+
 End-to-end pipeline that ingests, cleans, validates and models SISBEN IV microdata for the 125 municipalities of Antioquia, Colombia, and serves the results through a Power BI tabular model defined as code (TMDL). At full scale it processed **~25M records across six annual snapshots (2021–2026)**, about 4–5M people per snapshot.
 
 > **Privacy.** This repository never contains microdata. SISBEN IV records are personal data protected by Colombian Law 1581 of 2012. Whoever runs the pipeline sets every input and output path (command-line flags, environment variables or a local `.env`), and `.gitignore` blocks Parquet files and per-municipality CSVs. The sample in `data/sample/` is **synthetic**: every row was generated at random from the schema, and no value comes from a real record.
@@ -183,6 +185,10 @@ Links, terms and checksums are in [`data/SOURCES.md`](data/SOURCES.md). The repo
 ## Author
 
 **Valentina Vanegas Aristizábal** · Data & Economics Intern (2026) · [valentina-vanegas.pages.dev](https://valentina-vanegas.pages.dev/work/sisben-etl/)
+
+## How to cite
+
+> Vanegas Aristizábal, V. (2026). *SISBEN IV — ETL Pipeline & Power BI Semantic Model* (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24442461
 
 ## License
 

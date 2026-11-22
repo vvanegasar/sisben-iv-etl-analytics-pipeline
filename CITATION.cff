@@ -15,6 +15,7 @@ authors:
     website: "https://valentina-vanegas.pages.dev"
 date-released: "2026-11-21"
 version: "1.0.0"
+doi: "10.5281/zenodo.24442461"
 license: MIT
 repository-code: "https://github.com/vvanegasar/sisben-iv-etl-analytics-pipeline"
 url: "https://valentina-vanegas.pages.dev/work/sisben-etl/"
