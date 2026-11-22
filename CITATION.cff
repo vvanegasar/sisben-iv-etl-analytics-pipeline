@@ -12,13 +12,13 @@ authors:
   - family-names: "Vanegas Aristizábal"
     given-names: "Valentina"
     orcid: "https://orcid.org/0009-0004-7133-9367"
-    website: "https://valentina-vanegas.pages.dev"
+    website: "https://vvanegasar.github.io"
 date-released: "2026-11-21"
 version: "1.0.0"
 doi: "10.5281/zenodo.24442461"
 license: MIT
 repository-code: "https://github.com/vvanegasar/sisben-iv-etl-analytics-pipeline"
-url: "https://valentina-vanegas.pages.dev/work/sisben-etl/"
+url: "https://vvanegasar.github.io/work/sisben-etl/"
 keywords:
   - SISBEN IV
   - ETL
